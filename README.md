@@ -2,7 +2,7 @@
 
 👋 𝙷ello, 𝙸 a𝚖 SDRausty !
 
-𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚆𝚒𝚝𝚑 𝙼𝚊𝚗𝚢 Amazing 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 in the Plam of My Hand, in My Smartphone!
+𝚆𝚘𝚛𝚔𝚒𝚗𝚐 On 𝙼𝚊𝚗𝚢 Amazing 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 in the Plam of My Hand in My Smartphone
 
 :wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 :
 
