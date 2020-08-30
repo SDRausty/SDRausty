@@ -1,6 +1,6 @@
-<h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 !</h1>
+<h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎!</h1>
 
-👋 𝙷ello, 𝙸 a𝚖 SDRausty !
+👋 **Hi; I am SDRausty.  If you have any comments and questions please open an issue and pull request if possible!**
 
 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 On 𝙼𝚊𝚗𝚢 Amazing 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 in the Plam of My Hand in My Smartphone
 
