@@ -1,6 +1,6 @@
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
 
-👋 **Hi; I am SDRausty.  If you have any comments and questions please open an issue and pull request if possible!**
+👋 **Hi; I am SDRausty.  If you have any comments and questions please open an issue and pull request.**
 
 I am 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 On 𝙼𝚊𝚗𝚢 Amazing 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 in the Plam of My Hand in My Smartphone.
 
