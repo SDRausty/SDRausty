@@ -2,7 +2,7 @@
 
 👋 **Hi; I am SDRausty.  If you have any comments and questions please open an issue and pull request if possible!**
 
-𝚆𝚘𝚛𝚔𝚒𝚗𝚐 On 𝙼𝚊𝚗𝚢 Amazing 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 in the Plam of My Hand in My Smartphone
+𝚆𝚘𝚛𝚔𝚒𝚗𝚐 On 𝙼𝚊𝚗𝚢 Amazing 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 in the Plam of My Hand in My Smartphone.
 
 :wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 :
 
