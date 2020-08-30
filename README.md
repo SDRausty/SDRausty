@@ -1,5 +1,5 @@
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
-
+<center>
 👋 **Hi; I am SDRausty.  If you have any comments and questions please open an issue and pull request.**
 
 I am 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 On 𝙼𝚊𝚗𝚢 Amazing 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 in the Plam of My Hand in My Smartphone.
@@ -13,4 +13,5 @@ I am 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 On 𝙼𝚊𝚗𝚢 Amazing 𝙿𝚛𝚘𝚓�
 ![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=SDRAUSTY.SDRAUSTY&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 )
 
 ![SDRausty'𝚜 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜](https://github-readme-stats.vercel.app/api?username=SDRAUSTY&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
-
+</center>
+<!--README.md EOF-->
