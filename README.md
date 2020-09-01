@@ -1,4 +1,5 @@
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1></br>
+![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=SDRAUSTY.SDRAUSTY&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 )
 <p align="center"></bold>👋 Hi from SDRausty;  comments and questions? Please open an issue and an accompanying pull request at this website!</b></p>
 <p align="center"><em>There Are 𝙼𝚊𝚗𝚢 Amazing 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 in the Plams of My Hands in My Smartphones!</em></p>
 <p align="center">:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 :wrench:</p>
@@ -6,4 +7,7 @@
 <p align="center">:pushpin: 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠 :pushpin:</p>
 
 ![SDRausty'𝚜 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜](https://github-readme-stats.vercel.app/api?username=SDRAUSTY&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
+
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SDRAUSTY&layout=compact&theme=algolia">
+
 <!--README.md EOF-->
