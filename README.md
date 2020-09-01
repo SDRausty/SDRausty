@@ -1,5 +1,7 @@
-<h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1></br>
+<h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!
+
 ![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=SDRAUSTY.SDRAUSTY&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 )
+</h1></br>
 <p align="center"></bold>👋 Hi from SDRausty;  comments and questions? Please open an issue and an accompanying pull request at this website!</b></p>
 <p align="center"><em>There Are 𝙼𝚊𝚗𝚢 Amazing 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 in the Plams of My Hands in My Smartphones!</em></p>
 <p align="center">:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 :wrench:</p>
