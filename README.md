@@ -13,8 +13,8 @@ it is little
 
 palm held thing
 
-when's the holograph
+when is the holograph
 
-gonna sing
+going to sing
 
 <!-- README.md EOF -->
