@@ -1,7 +1,7 @@
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!
 
 </h1></br>
-<p align="center"></bold><em>Androids be more than computers!</b></em>
+<p align="center"><em></bold>Androids be more than computers!</b>
 
 not a building
 
@@ -17,6 +17,6 @@ palm held thing
 
 when's the holograph
 
-gonna sing</p>
+gonna sing</em></p>
 
 <!-- README.md EOF -->
