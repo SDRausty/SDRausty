@@ -1,20 +1,12 @@
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
 <p align="center"><em></bold>Androids be more than computers!</b></em></p>
 
-Not a building,
+Not a building, nor kinescope TV box.
 
-Nor kinescope TV box.
+Not a notebook, nor laptop.
 
-Not a notebook,
+It is a little palm held thing.
 
-Nor laptop.
-
-It is a little,
-
-Palm held thing.
-
-When is the holograph,
-
-Going to sing?
+When is the holograph going to sing?
 
 <!-- README.md EOF -->
