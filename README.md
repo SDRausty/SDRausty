@@ -1,12 +1,12 @@
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
 <p align="center"><em></bold>Androids be more than computers!</b></em></p>
 
-Not a building, nor kinescope TV box.
+<p align="center">Not a building, nor kinescope TV box.</p>
 
-Not a notebook, nor laptop.
+<p align="center">Not a notebook, nor laptop.</p>
 
-It is a little palm held thing.
+<p align="center">It is a little palm held thing.</p>
 
-When is the holograph going to sing?
+<p align="center">When is the holograph going to sing?</p>
 
 <!-- README.md EOF -->
