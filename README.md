@@ -9,4 +9,6 @@
 
 <p align="center">When is the holograph going to sing?</p>
 
+<p align="right">by SDRausty</p>
+
 <!-- README.md EOF -->
