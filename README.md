@@ -14,4 +14,7 @@
 `~/music/linkinpark/Until\ It\'s\ Gone\ \[Official\ Music\ Video\]\ -\ Linkin\ Park-oM-XJD4J36U.mp4`
 
 `~/music/linkinpark/CASTLE\ OF\ GLASS\ \[Official\ Music\ Video\]\ -\ Linkin\ Park-ScNNfyq3d_w.mkv`
+
+`~/music/rem/R.E.M.\ -\ Shiny\ Happy\ People\ \(Official\ Music\ Video\)-YYOKMUTTDdA.mkv`
+
 <!-- README.md EOF -->
