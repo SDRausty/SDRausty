@@ -3,7 +3,7 @@
 
 <p align="center">Not a building, nor kinescope TV box.</p>
 
-<p align="center">Not a laptop, nor notebook.</p>
+<p align="center">Not laptop, nor notebook.</p>
 
 <p align="center">It is a little palm held thing.</p>
 
