@@ -19,4 +19,5 @@
 
 `mkdip ~/music/chopin`
 
+![Wild Fires Dusty Sky](https://raw.githubusercontent.com/SDRausty/SDRausty/19ae0a7d241b5339004a3bec5e27d6fe051c8a23/IMG_20210904_102307.jpg)
 <!-- README.md EOF -->
