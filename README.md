@@ -17,4 +17,6 @@
 
 `~/music/rem/R.E.M.\ -\ Shiny\ Happy\ People\ \(Official\ Music\ Video\)-YYOKMUTTDdA.mkv`
 
+`mkdip ~/music/chopin`
+
 <!-- README.md EOF -->
