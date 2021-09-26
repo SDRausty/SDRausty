@@ -11,13 +11,8 @@
 
 <p align="right">by SDRausty</p>
 
-`~/music/linkinpark/Until\ It\'s\ Gone\ \[Official\ Music\ Video\]\ -\ Linkin\ Park-oM-XJD4J36U.mp4`
-
-`~/music/linkinpark/CASTLE\ OF\ GLASS\ \[Official\ Music\ Video\]\ -\ Linkin\ Park-ScNNfyq3d_w.mkv`
-
-`~/music/rem/R.E.M.\ -\ Shiny\ Happy\ People\ \(Official\ Music\ Video\)-YYOKMUTTDdA.mkv`
-
-`mkdip ~/music/chopin`
+    ~/music/Hopeless\ -\ Dawn\ of\ the\ Black\ Sun\ 2020\ -\ SYMPHONIC\ DEATH\ METAL-nkXlEtNT9m0.mp4
+    mkdip ~/music/chopin
 
 ![Wild Fires Dusty Sky](https://raw.githubusercontent.com/SDRausty/SDRausty/19ae0a7d241b5339004a3bec5e27d6fe051c8a23/IMG_20210904_102307.jpg)
 <!-- README.md EOF -->
