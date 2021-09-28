@@ -15,7 +15,7 @@
 
     ~/music/sia/Sia\ -\ Chandelier\ \(Official\ Video\)-2vjPBrBU-TM.mp4
 
-    ~/music/sia/Sia\ -\ Cheap\ Thrills\ \(Lyric\ Video\)\ ft.\ Sean\ Paul-nYh-n7EOtMA.mp4
+    ~/music/linkinpark/A\ Line\ In\ The\ Sand\ -\ Linkin\ Park\ \(The\ Hunting\ Party\)-FkDrVL8Tsuw.webm
 
 ![Ungeoformed Wild Fires Dusty Sky in the Great Lakes, Summer of 2021](https://raw.githubusercontent.com/SDRausty/SDRausty/19ae0a7d241b5339004a3bec5e27d6fe051c8a23/IMG_20210904_102307.jpg)
 
