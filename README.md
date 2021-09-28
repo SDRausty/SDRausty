@@ -11,6 +11,8 @@
 
 <p align="right">by SDRausty</p>
 
+    user08:01sia$ yt "https://m.youtube.com/watch?v=2vjPBrBU-TM&list=RDEMieiteXw81tMLBdKv8qkChg"
+
     ~/music/sia/Sia\ -\ Chandelier\ \(Official\ Video\)-2vjPBrBU-TM.mp4
 
     ~/music/sia/Sia\ -\ Cheap\ Thrills\ \(Lyric\ Video\)\ ft.\ Sean\ Paul-nYh-n7EOtMA.mp4
