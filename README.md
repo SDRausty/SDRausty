@@ -11,8 +11,9 @@
 
 <p align="right">by SDRausty</p>
 
-    ~/music/linkinpark/CASTLE\ OF\ GLASS\ \[Official\ Music\ Video\]\ -\ Linkin\ Park-ScNNfyq3d_w.mkv
-![Wild Fires Dusty Sky](https://raw.githubusercontent.com/SDRausty/SDRausty/19ae0a7d241b5339004a3bec5e27d6fe051c8a23/IMG_20210904_102307.jpg)
+    ~/music/linkinpark/Until\ It\'s\ Gone\ \[Official\ Music\ Video\]\ -\ Linkin\ Park-oM-XJD4J36U.mp4
+
+![Ungeoformed Wild Fires Dusty Sky in the Great Lakes, Summer of 2021](https://raw.githubusercontent.com/SDRausty/SDRausty/19ae0a7d241b5339004a3bec5e27d6fe051c8a23/IMG_20210904_102307.jpg)
 
     mkdip ~/music/chopin
 <!-- SDRausty/README.md EOF -->
