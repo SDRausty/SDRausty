@@ -11,11 +11,7 @@
 
 <p align="right">by SDRausty</p>
 
-    user08:01sia$ yt "https://m.youtube.com/watch?v=2vjPBrBU-TM&list=RDEMieiteXw81tMLBdKv8qkChg"
-
-    ~/music/sia/Sia\ -\ Chandelier\ \(Official\ Video\)-2vjPBrBU-TM.mp4
-
-    ~/music/linkin/What\ I\'ve\ Done\ \(Official\ Video\)\ -\ Linkin\ Park-8sgycukafqQ.mp4
+    ~/music/Pink\ Floyd\ Mandolin\ Orchestra\ Shine\ On\ You\ Crazy\ Diamond\ Mank\ Rüber\ Preema\ Bagger\ Orchester-w8nZp-LWJss.mp4
 
 ![Ungeoformed Wild Fires Dusty Sky in the Great Lakes, Summer of 2021](https://raw.githubusercontent.com/SDRausty/SDRausty/19ae0a7d241b5339004a3bec5e27d6fe051c8a23/IMG_20210904_102307.jpg)
 
