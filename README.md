@@ -11,9 +11,9 @@
 
 <p align="right">by SDRausty</p>
 
-    ~/music/obywatelgc/Obywatel\ G.C.\ -\ Paryż-Moskwa\ 17.15-JI9P7RsVn3M.mkv
+[`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`~/music/obywatelgc/Obywatel\ G.C.\ -\ Paryż-Moskwa\ 17.15-JI9P7RsVn3M.mkv`
 
-    ~/music/jeanmicheljarre/Jean\ Michel\ Jarre\ \ -\ \ The\ Concerts\ in\ China\ \ \(1982\)\ \ -\ \ HQ\ Audio-D0QBMhEPg6E.webm
+[`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`~/music/jeanmicheljarre/Jean\ Michel\ Jarre\ \ -\ \ The\ Concerts\ in\ China\ \ \(1982\)\ \ -\ \ HQ\ Audio-D0QBMhEPg6E.webm`
 
 ![Ungeoformed Wild Fires Dusty Sky in the Great Lakes, Late Summer of 2021](https://raw.githubusercontent.com/SDRausty/SDRausty/19ae0a7d241b5339004a3bec5e27d6fe051c8a23/IMG_20210904_102307.jpg)
 
