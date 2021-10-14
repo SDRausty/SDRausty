@@ -15,7 +15,7 @@
 
     ~/music/jeanmicheljarre/Jean\ Michel\ Jarre\ \ -\ \ The\ Concerts\ in\ China\ \ \(1982\)\ \ -\ \ HQ\ Audio-D0QBMhEPg6E.webm
 
-![Ungeoformed Wild Fires Dusty Sky in the Great Lakes, Summer of 2021](https://raw.githubusercontent.com/SDRausty/SDRausty/19ae0a7d241b5339004a3bec5e27d6fe051c8a23/IMG_20210904_102307.jpg)
+![Ungeoformed Wild Fires Dusty Sky in the Great Lakes, Late Summer of 2021](https://raw.githubusercontent.com/SDRausty/SDRausty/19ae0a7d241b5339004a3bec5e27d6fe051c8a23/IMG_20210904_102307.jpg)
 
     mkdip ~/music/chopin 🎵 🎶
 <!-- SDRausty/README.md EOF -->
