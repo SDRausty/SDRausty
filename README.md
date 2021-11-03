@@ -1,4 +1,6 @@
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
+<link href="https://github.com/TermuxArch/TermuxArch/commit/4b7e0f08e29cabcd1cb91478536ee0b837397502">
+
 <p align="center"><em></bold>Androids be more than computers!</b></em></p>
 
 <p align="center">Not building, nor kinescope TV box.</p>
@@ -7,7 +9,7 @@
 
 <p align="center">It is a little palm held thing.</p>
 
-<p align="center">When is the holograph going to sing?</p>
+<p align="center">When is <link href="https://github.com/TermuxArch/TermuxArch/commit/4b7e0f08e29cabcd1cb91478536ee0b837397502">the holograph</link> going to sing?</p>
 
 <p align="right">by SDRausty</p>
 
