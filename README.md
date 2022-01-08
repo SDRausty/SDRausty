@@ -17,7 +17,7 @@
 
 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`~/music/jeanmicheljarre/Jean\ Michel\ Jarre\ \ -\ \ The\ Concerts\ in\ China\ \ \(1982\)\ \ -\ \ HQ\ Audio-D0QBMhEPg6E.webm`
 
-![God's creatures playing, Winter of 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/VID_20220107_222225.gif)
+![God's creatures playing, Winter of 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
 [`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L336)` ~/music/chopin` 🎵 🎶
 <!-- SDRausty/README.md EOF -->
