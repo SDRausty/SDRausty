@@ -13,7 +13,7 @@
 
 <p align="right">by SDRausty</p>
 
-[`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`~/music/obywatelgc/Obywatel\ G.C.\ -\ Paryż-Moskwa\ 17.15-JI9P7RsVn3M.mkv`
+[`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`~/music/obywatelgc/OBYWATEL\ GC\ \&\ OXEO\ -\ Nie\ pytaj\ o\ Polske\ _\ Don\'t\ ask\ about\ Poland\ \(Oxeo\ EDM\ Remix\)-6cm6NVhXC-4.mkv`
 
 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`~/music/jeanmicheljarre/Jean\ Michel\ Jarre\ \ -\ \ The\ Concerts\ in\ China\ \ \(1982\)\ \ -\ \ HQ\ Audio-D0QBMhEPg6E.webm`
 
