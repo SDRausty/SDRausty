@@ -19,5 +19,7 @@ session 1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ 
 
 ![God's creatures playing, Winter of 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
-[`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L336)` ~/music/chopin` 🎵 🎶
+<csption>God's creatures playing, Winter of 2022</csption>
+
+[`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L336)` ~/serviceanimals` 🎵 🎶
 <!-- SDRausty/README.md EOF -->
