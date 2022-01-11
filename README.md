@@ -13,9 +13,9 @@
 
 <p align="right">by SDRausty</p>
 
-[`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`~/music/obywatelgc/OBYWATEL\ GC\ \&\ OXEO\ -\ Nie\ pytaj\ o\ Polske\ _\ Don\'t\ ask\ about\ Poland\ \(Oxeo\ EDM\ Remix\)-6cm6NVhXC-4.mkv`
+session 0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`wae.bash Sia\ -\ The\ Greatest-GKSRyLdjsPA.mkv`
 
-[`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`sia/Sia\ -\ Unstoppable\ \(Official\ Video\ -\ Live\ from\ the\ Nostalgic\ For\ The\ Present\ Tour\)-YaEG2aWJnZ8.mp4`
+session 1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ Unstoppable\ \(Official\ Video\ -\ Live\ from\ the\ Nostalgic\ For\ The\ Present\ Tour\)-YaEG2aWJnZ8.mp4`
 
 ![God's creatures playing, Winter of 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
