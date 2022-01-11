@@ -17,9 +17,9 @@ session 0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ 
 
 session 1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ Unstoppable\ \(Official\ Video\ -\ Live\ from\ the\ Nostalgic\ For\ The\ Present\ Tour\)-YaEG2aWJnZ8.mp4`
 
-![God's creatures playing, Winter of 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
+![God's creatures playing, January 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
-<csption>God's creatures playing, Winter of 2022</csption>
+<csption>God's creatures playing, January 2022</csption>
 
 [`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L336)` ~/serviceanimals` 🎵 🎶
 <!-- SDRausty/README.md EOF -->
