@@ -13,7 +13,7 @@
 
 <p align="right">by SDRausty</p>
 
-session 0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`wae.bash Sia\ -\ The\ Greatest-GKSRyLdjsPA.mkv`
+session 0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ The\ Greatest-GKSRyLdjsPA.mkv`
 
 session 1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ Unstoppable\ \(Official\ Video\ -\ Live\ from\ the\ Nostalgic\ For\ The\ Present\ Tour\)-YaEG2aWJnZ8.mp4`
 
