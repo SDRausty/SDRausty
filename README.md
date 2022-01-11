@@ -21,5 +21,5 @@ session 1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ 
 
 <csption>God's creatures playing, January 2022</csption>
 
-[`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L336)` ~/serviceanimals` 🎵 🎶
+[`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L336)` ~/serviceanimals/{dog,duck,rabbit,turkey} 🎵 🎶
 <!-- SDRausty/README.md EOF -->
