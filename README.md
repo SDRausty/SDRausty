@@ -9,7 +9,7 @@
 
 <p align="center">It is a little palm held thing.</p>
 
-<p align="center">When is <a href="https://github.com/TermuxArch/TermuxArch/commit/245eb8f2eee121955c3fcf69452565899d07ab7f">the holograph</a> going to sing?</p>
+<p align="center">When is <a href="https://github.com/buildAPKs">the holograph</a> going to sing?</p>
 
 <p align="right">by SDRausty</p>
 
