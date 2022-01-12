@@ -1,7 +1,6 @@
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
-<link href="https://github.com/TermuxArch/TermuxArch/commit/4b7e0f08e29cabcd1cb91478536ee0b837397502">
 
-<p align="center"><em></bold>Androids be more than computers!</b></em></p>
+<h4 align="center"><em>Androids be more than computers!</em></h4>
 
 <p align="center">Not building, nor kinescope TV box,</p>
 
@@ -11,7 +10,9 @@
 
 <p align="center">When is <a href="https://github.com/buildAPKs">the holograph</a> going to sing?</p>
 
-<p align="right">by SDRausty</p>
+<p align="right"><em>by SDRausty</em></p>
+
+<hr>
 
 session 0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ The\ Greatest-GKSRyLdjsPA.mkv`
 
@@ -19,7 +20,9 @@ session 1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ 
 
 ![God's Creatures Playing, January 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
-<csption>God's Creatures Playing, January 2022</csption>
+<caption>God's Creatures Playing, January 2022</csption>
+
+<hr>
 
 [`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L486) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/) 🎵 🎶
 <!-- SDRausty/README.md EOF -->
