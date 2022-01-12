@@ -14,9 +14,9 @@
 
 <hr>
 
-session 0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ The\ Greatest-GKSRyLdjsPA.mkv`
+session0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ The\ Greatest-GKSRyLdjsPA.mkv`
 
-session 1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ Unstoppable\ \(Official\ Video\ -\ Live\ from\ the\ Nostalgic\ For\ The\ Present\ Tour\)-YaEG2aWJnZ8.mp4`
+session1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ Unstoppable\ \(Official\ Video\ -\ Live\ from\ the\ Nostalgic\ For\ The\ Present\ Tour\)-YaEG2aWJnZ8.mp4`
 
 ![God's Creatures Playing, January 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
