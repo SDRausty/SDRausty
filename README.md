@@ -14,9 +14,9 @@
 
 <hr>
 
-session0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ The\ Greatest-GKSRyLdjsPA.mkv`
+session0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Beethoven\ -\ Für\ Elise\ \(Piano\ Version\)-_mVW8tgGY_w.webm`
 
-session1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ Unstoppable\ \(Official\ Video\ -\ Live\ from\ the\ Nostalgic\ For\ The\ Present\ Tour\)-YaEG2aWJnZ8.mp4`
+session1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Chopin\ -\ Nocturne\ op.9\ No.2-9E6b3swbnWg.webm`
 
 ![God's Creatures Playing, January 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
@@ -25,4 +25,5 @@ session1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)`Sia\ -\ U
 <hr>
 
 [`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L486) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/) 🎵 🎶
+
 <!-- SDRausty/README.md EOF -->
