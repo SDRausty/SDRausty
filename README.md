@@ -10,7 +10,7 @@
 
 <p align="center">When is <a href="https://github.com/buildAPKs">the holograph</a> going to sing?</p>
 
-<p align="right"><em>by SDRausty</em></p>
+<p align="right"><em><sup>by SDRausty</sup></em></p>
 
 <hr>
 
@@ -20,7 +20,7 @@ session1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chopin\ 
 
 ![God's Creatures Playing, January 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
-<caption>God's Creatures Playing, January 2022</csption>
+<p align="right"><em><sup>God's Creatures Playing, January 2022</sup></em></p>
 
 <hr>
 
