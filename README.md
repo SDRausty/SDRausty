@@ -14,7 +14,7 @@
 
 <hr>
 
-session0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago - 25 or 6 to 4 - 7_21_1970 - Tanglewood (Official)-7uAUoz7jimg.mp4`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1742&&#L1746)
+session0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`The Cranberries - Zombie (Official Music Video)-6Ejga4kJUts.mp4!`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1742&&#L1746)
 
 session1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago - 25 or 6 to 4 - 7_21_1970 - Tanglewood (Official)-7uAUoz7jimg.mp4`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1742&&#L1746)
 
