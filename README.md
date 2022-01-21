@@ -16,9 +16,9 @@
 
 session0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Metallica\ Mandolin\ Orchestra\ Nothing\ Else\ Matters\ Cover\ Zupforchester\ Boris\ Bagger\ Michael\ Rüber-Fdmeom3lLx0.mp4`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1745)
 
-session1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`/Pink\ Floyd\ Mandolin\ Orchestra\ Shine\ On\ You\ Crazy\ Diamond\ Mank\ Rüber\ Preema\ Bagger\ Orchester-w8nZp-LWJss.mp4`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1745)
+session1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Pink\ Floyd\ Mandolin\ Orchestra\ Shine\ On\ You\ Crazy\ Diamond\ Mank\ Rüber\ Preema\ Bagger\ Orchester-w8nZp-LWJss.mp4`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1745)
 
-![God's Creatures Playing, January 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
+![God's Creatures Playing about a Snowscaped Garden, January 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
 <p align="right"><em><sup>God's Creatures Playing, January 2022</sup></em></p>
 
