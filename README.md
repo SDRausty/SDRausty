@@ -24,6 +24,6 @@ session1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Pink\ Fl
 
 <hr>
 
-[`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L484) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/) 🎵 🎶
+[`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L492) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/) 🎵 🎶
 
 <!-- SDRausty/README.md EOF -->
