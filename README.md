@@ -18,7 +18,7 @@
 
 [session0](https://wiki.termux.com/wiki/FAQ) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago\ Transit\ Authority\ Beginnings-pWd3BvRw4IU.mpv`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
 
-[session1](https://wiki.termux.com/wiki/Sofware) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago - 25 or 6 to 4 (Official Audio)-8A3HZvGN0qs.f248.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
+[session1](https://wiki.termux.com/wiki/Software) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago - 25 or 6 to 4 (Official Audio)-8A3HZvGN0qs.f248.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
 
 [session2](https://wiki.termux.com/wiki/PRoot) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Does\ Anybody\ Really\ Know\ What\ Time\ It\ Is-lzLbmOHTYcI.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
 
