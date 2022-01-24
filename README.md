@@ -2,9 +2,9 @@
 
 <h4 align="center"><em>Androids be more than computers!</em></h4>
 
-<p align="center">Not building, nor kinescope TV box,</p>
+<p align="center">Not a building, nor a kinescope TV box,</p>
 
-<p align="center">Not notebook, nor laptop,</p>
+<p align="center">Not a notebook, nor a laptop,</p>
 
 <p align="center">It is a little palm held thing.</p>
 
