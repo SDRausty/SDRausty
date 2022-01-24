@@ -22,7 +22,7 @@ session2 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Does\ An
 
 session3 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Saturday\ in\ the\ Park-vL7Op9ZQ3E0.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
 
-<p align="left">You can use CTRL+\ and restart plays as often as desired.</p>
+<p align="left">You can use CTRL+\ to restart plays as desired.</p>
 
 <hr>
 
