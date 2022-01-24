@@ -24,6 +24,8 @@ session2 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Does\ An
 
 session3 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Saturday\ in\ the\ Park-vL7Op9ZQ3E0.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
 
+session4 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`../sia/Sia\ -\ The\ Greatest-GKSRyLdjsPA.mpv`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
+
 <p align="center">CTRL+\ can be used to restart plays as desired.</p>
 
 <hr>
