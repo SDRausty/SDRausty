@@ -14,13 +14,13 @@
 
 <hr>
 
-session0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Beginnings-4W1bXSeaI48.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1825)
+session0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Beginnings-4W1bXSeaI48.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
 
-session1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago\ -\ 25\ Or\ 6\ To\ 4\ \(HD\)-iUAYeN3Rp2E.mkv`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1825)
+session1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago\ -\ 25\ Or\ 6\ To\ 4\ \(HD\)-iUAYeN3Rp2E.mkv`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
 
-session2 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Does\ Anybody\ Really\ Know\ What\ Time\ It\ Is-lzLbmOHTYcI.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1825)
+session2 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Does\ Anybody\ Really\ Know\ What\ Time\ It\ Is-lzLbmOHTYcI.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
 
-session3 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Saturday\ in\ the\ Park-vL7Op9ZQ3E0.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1825)
+session3 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Saturday\ in\ the\ Park-vL7Op9ZQ3E0.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
 
 <hr>
 
