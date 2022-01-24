@@ -16,7 +16,7 @@
 
 <p align="center">SHMEM+</p>
 
-[session0](https://wiki.termux.com/wiki/FAQ) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago - 25 or 6 to 4 (Official Audio)-8A3HZvGN0qs.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
+[session0](https://wiki.termux.com/wiki/FAQ) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago - 25 or 6 to 4 (Official Audio)-8A3HZvGN0qs.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1817)
 
 [session1](https://wiki.termux.com/wiki/Software) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago\ Transit\ Authority\ Beginnings-pWd3BvRw4IU.mpv`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1817)
 
