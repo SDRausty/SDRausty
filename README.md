@@ -14,6 +14,8 @@
 
 <hr>
 
+<p align="left">SHMEM+</p>
+
 session0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Beginnings-4W1bXSeaI48.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
 
 session1 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago\ -\ 25\ Or\ 6\ To\ 4\ \(HD\)-iUAYeN3Rp2E.mkv`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
