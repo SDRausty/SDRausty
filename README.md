@@ -14,7 +14,7 @@
 
 <hr>
 
-Use CTRL+\ and resart playing as often as wanted.
+<p align="left">Use CTRL+\ and restart plays as often as desired.</p>
 
 session0 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Beginnings-4W1bXSeaI48.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1819)
 
