@@ -22,6 +22,8 @@ session2 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Does\ An
 
 session3 [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Saturday\ in\ the\ Park-vL7Op9ZQ3E0.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1825)
 
+<hr>
+
 ![God's Creatures Playing in the Snowscape, January 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
 <p align="right"><em><sup>God's Creatures Playing in the Snowscape, January 2022</sup></em></p>
