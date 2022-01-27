@@ -16,15 +16,15 @@
 
 <p align="center">SHMEM+</p>
 
-[session0](https://wiki.termux.com/wiki/FAQ) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago - 25 or 6 to 4 (Official Audio)-8A3HZvGN0qs.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1817)
+[session0](https://wiki.termux.com/wiki/FAQ) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago - 25 or 6 to 4 (Official Audio)-8A3HZvGN0qs.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1822)
 
-[session1](https://wiki.termux.com/wiki/Software) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago\ Transit\ Authority\ Beginnings-pWd3BvRw4IU.mpv`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1817)
+[session1](https://wiki.termux.com/wiki/Software) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago\ Transit\ Authority\ Beginnings-pWd3BvRw4IU.mpv`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1822)
 
-[session2](https://wiki.termux.com/wiki/PRoot) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Does\ Anybody\ Really\ Know\ What\ Time\ It\ Is-lzLbmOHTYcI.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1817)
+[session2](https://wiki.termux.com/wiki/PRoot) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Does\ Anybody\ Really\ Know\ What\ Time\ It\ Is-lzLbmOHTYcI.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1822)
 
-[session3](https://wiki.termux.com/wiki/User_Interface) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Saturday\ in\ the\ Park-vL7Op9ZQ3E0.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1817)
+[session3](https://wiki.termux.com/wiki/User_Interface) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Saturday\ in\ the\ Park-vL7Op9ZQ3E0.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1822)
 
-[session4](https://wiki.termux.com/wiki/Working_with_APKs) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Sia\ -\ The\ Greatest-GKSRyLdjsPA.mpv`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1817)
+[session4](https://wiki.termux.com/wiki/Working_with_APKs) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Sia\ -\ The\ Greatest-GKSRyLdjsPA.mpv`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1822)
 
 <p align="center">CTRL+\ can be used to restart plays as desired.</p>
 
