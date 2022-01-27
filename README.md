@@ -36,6 +36,6 @@
 
 <hr>
 
-[`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L490) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/) 🎵 🎶
+[`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L229) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/) 🎵 🎶
 
 <!-- SDRausty/README.md EOF -->
