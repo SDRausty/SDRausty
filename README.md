@@ -24,7 +24,7 @@
 
 [session3](https://wiki.termux.com/wiki/User_Interface) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Saturday\ in\ the\ Park-vL7Op9ZQ3E0.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1822)
 
-[session4](https://wiki.termux.com/wiki/Working_with_APKs) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Sia\ -\ The\ Greatest-GKSRyLdjsPA.mpv`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1822)
+[session4](https://wiki.termux.com/wiki/Working_with_APKs) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Sia\ -\ The\ Greatest-GKSRyLdjsPA.mpv`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1822) 🎵 🎶
 
 <p align="center">CTRL+\ can be used to restart plays as desired.</p>
 
@@ -36,6 +36,6 @@ God's Creatures [Service Duck](https://github.com/serviceanimals) Chester 2 and 
 
 <hr>
 
-[`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L229) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/) 🎵 🎶
+[`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L229) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/)
 
 <!-- SDRausty/README.md EOF -->
