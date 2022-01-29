@@ -32,7 +32,7 @@
 
 ![God's creatures Playing in the Snowscape, January 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
-<p align="right"><em><sup>God's Creatures [service duck](https://github.com/serviceanimals) Chester 2 and [service dog](https://github.com/serviceanimals) Princess Playing in the Snowscape, January 2022</sup></em></p>
+God's Creatures [service duck](https://github.com/serviceanimals) Chester 2 and [service dog](https://github.com/serviceanimals) Princess Playing in the Snowscape, January 2022
 
 <hr>
 
