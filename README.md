@@ -32,7 +32,7 @@
 
 ![God's Creatures Playing in the Snowscape, January 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
-<p align="right"><em><sup>God's Creatures Playing in the Snowscape, January 2022</sup></em></p>
+<p align="right"><em><sup>God's Creatures Chester 2 and Princess Playing in the Snowscape, January 2022</sup></em></p>
 
 <hr>
 
