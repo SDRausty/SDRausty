@@ -6,7 +6,7 @@
 
 <p align="center">Not a notebook, nor laptop,</p>
 
-<p align="center">It's a small shiny palm held thing.</p>
+<p align="center">It is a small shiny palm held thing.</p>
 
 <p align="center">When is <a href="https://github.com/buildAPKs">the holograph</a> going to sing?</p>
 
