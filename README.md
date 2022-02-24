@@ -10,7 +10,7 @@
 
 <p align="center">When is <a href="https://github.com/buildAPKs">the holograph</a> going to sing?</p>
 
-<p align="right"><em><sup>by SDRausty in 2022</sup></em></p>
+<p align="right"><em><sup>by SDRausty</sup></em></p>
 
 <hr>
 
