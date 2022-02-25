@@ -35,6 +35,12 @@
 [Service Duck](https://github.com/serviceanimals) Chester 2 and [Service Dog](https://github.com/serviceanimals) Princess Playing in the Snowscape, January 2022
 <p>
 Isaiah 11:6 <q>The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.</q>
+<p>
+Isaiah 11:7 <q>And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.</q>
+<p>
+Isaiah 11:8 <q>And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice' den.</q>
+<p>
+Isaiah 11:9 <q>They shall not hurt nor destroy in all my holy mountain: for the Earth shall be full of the knowledge of the LORD, as the waters cover the sea.</q>
 <hr>
 
 [`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L230) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/)
