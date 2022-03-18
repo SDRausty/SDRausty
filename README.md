@@ -30,11 +30,11 @@
 
 [The reason Termux Arch exists is because of Termux user requests.  Much of the work at Termux Arch is modifying the scripts without cracking/rooting Android.](https://github.com/termux/termux-packages/issues/202)
 
-[>Pointing out that a package works in troop is off-topic in a package request issue like this one, so I disagree.](https://github.com/termux/termux-packages/issues/202)
+[> Pointing out that a package works in troop is off-topic in a package request issue like this one, so I disagree.](https://github.com/termux/termux-packages/issues/202)
 
 [Does this answer imply that granting op's request via Termux Arch should NOT have been announced to the Termux community.  Please keep in mind that finding a working `povray` in Termux P Root took much time for it did NOT work in almost all P Roots.  More so, finding a working Termux P Root solution is NOT effortless either.  Finding a solution that works consistently and reliably requires very much effort and time.  Rooting Android devices to use Termux seems to make absolutely no sense at all as privileged apps can run Android!  Do you not agree @Grimmer?](https://github.com/termux/termux-packages/issues/202)
 
-[>that the package in question was available from archlinux, which was frankly annoying ](https://github.com/termux/termux-packages/issues/202)
+[> that the package in question was available from archlinux, which was frankly annoying ](https://github.com/termux/termux-packages/issues/202)
 
 [I do not find the topic that it did not work, but now it works annoying at all.  Especially when it grants Termux user requests that seem to be met with applause except for Termux's applause and thanks, as in this topic here.](https://github.com/termux/termux-packages/issues/202)
 
