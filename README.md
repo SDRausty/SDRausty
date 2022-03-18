@@ -16,7 +16,7 @@
 
 [I would like to know why Termux is asking for help, then bashes its' helpers by banning, deleting and minimizing contributor's work that Termux user's are seeking to use on their Android palmheld devices. How will Termux users find what they are seeking for when work contributed to Termux for Termux end users is gone?](https://github.com/termux/termux-packages/issues/202#issuecomment-1072656070)
 
-[>Why not run POV-Ray on your Android?](https://github.com/termux/termux-packages/issues/202)
+[> Why not run POV-Ray on your Android?](https://github.com/termux/termux-packages/issues/202)
 
 [My first comment in this issue answers op's request, and it is minimized now.  It seems that running `povray` was not possible on Android handheld until @koppi's request was answered by me.  Granted, the answer is a nonnative Termux answer, but I still cannot phantom why answering op's question is considered off topic spam now, but not in 2017.  This logic is mad:](https://github.com/termux/termux-packages/issues/202)
 
@@ -24,9 +24,9 @@
 
 [I felt that this topic is important enough to let upstream know too at https://github.com/POV-Ray/povray/issues/291, and it seems that upstream is not as eager to delete/minimize my hard effort/work with contributions as Termux are recently now.](https://github.com/termux/termux-packages/issues/202)  
 
-[The SDRausty account is now banned for years at Gitter.  I still di not know why;  Can you please unban the SDRausty account at Gitter please?](https://github.com/termux/termux-packages/issues/202)
+[The SDRausty account is now banned for years at Gitter.  I still do not know why;  Can you please unban the SDRausty account at Gitter please?](https://github.com/termux/termux-packages/issues/202)
 
-[>No, a package that works with glib in troop does not mean that it works with Termux/android.](https://github.com/termux/termux-packages/issues/202)
+[> No, a package that works with glib in troop does not mean that it works with Termux/android.](https://github.com/termux/termux-packages/issues/202)
 
 [The reason Termux Arch exists is because of Termux user requests.  Much of the work at Termux Arch is modifying the scripts without cracking/rooting Android.](https://github.com/termux/termux-packages/issues/202)
 
