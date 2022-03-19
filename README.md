@@ -44,6 +44,14 @@
 
 [Trivializing precious hard work given to Termux is shamefull and finding my hard work that eventually led to povray's native integration minimized and deleted and more of this same behaviour at https://github.com/termux by Termux's curators while supurfulous topics are displayed up front, and in plain sight consuming time and detracting from the main topic, "does it work well on handheld without rooting Android?" only speaks of our team's integraty.  Do you agree?](https://github.com/termux/termux-packages/issues/202#issuecomment-1072898610_)
 
+[Why are all my comments minimized in this issue, and all across the bosrd at https://github.com/termux? The answers that I have received from @agnostic-apollo and @Grimler91:](https://github.com/termux/termux-app/issues/1242#issuecomment-1072940114_)
+
+["I am spamming," by @Grimler91 ](https://github.com/termux/termux-app/issues/1242#issuecomment-1072940114_)
+
+["I am throwing tantrums," by @agnostic-apollo ](https://github.com/termux/termux-app/issues/1242#issuecomment-1072940114_)
+
+Please pardon my comment that both of these answers are intimidation and perversion of work asked for, then bashed.  If Termux is asking/pleading for assistance, then outright bashing/deleting/hiding/ignoring and minimizing valid contibutions that truely work in Termux without rooting Android, the main motivation seems to be, "if it doesn't work, root your Android," logic at all costs to our end users, and Termux app development itself.  Kind of like Putin's plan, sacrifice Russia for the entire postwar world.](https://github.com/termux/termux-app/issues/1242#issuecomment-1072940114_)
+
 
 <p align="center">SHMEM+</p>
 
