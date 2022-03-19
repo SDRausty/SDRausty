@@ -24,7 +24,7 @@
 
 [I felt that this topic is important enough to let upstream know too at https://github.com/POV-Ray/povray/issues/291, and it seems that upstream is not as eager to delete/minimize my hard effort/work with contributions as Termux curators are recently now.](https://github.com/termux/termux-packages/issues/202)  
 
-[The SDRausty account is now banned for years at Gitter.  I still do not know why;  Can you please unban the SDRausty account at Gitter please?](https://github.com/termux/termux-packages/issues/202)
+[The SDRausty account is now banned for years at Termux Gitter.  I still do not know why;  Can you please unban the SDRausty account at Termux Gitter please?](https://github.com/termux/termux-packages/issues/202)
 
 [> No, a package that works with glib in proot does not mean that it works with Termux/android.](https://github.com/termux/termux-packages/issues/202)
 
