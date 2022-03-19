@@ -38,6 +38,13 @@
 
 [I do not find the topic that it did not work, but now it works annoying at all.  Especially when it grants Termux user requests that seem to be met with applause except for Termux's applause and thanks, as in this topic here.](https://github.com/termux/termux-packages/issues/202)
 
+[It is great that `povray` is finally available in native Termux.  Contributing to this issue, and at https://github.com/POV-Ray/povray/issues/291 took much time.  Finding a working `povray` solution took even more time and effort.  A thank you was not expected. Neither was a ban.](https://github.com/termux/termux-packages/issues/202#issuecomment-1072898610_)
+
+[ >Pointing out that a package works in proot is off-topic](https://github.com/termux/termux-packages/issues/202#issuecomment-1072898610_)
+
+[Trivializing precious hard work given to Termux is shamefull and finding my hard work that eventually led to povray's native integration minimized and deleted and more of this same behaviour at https://github.com/termux by Termux's curators while supurfulous topics are displayed up front, and in plain sight consuming time and detracting from the main topic, "does it work well on handheld?" only speaks of our team's integraty.  Do you agree?](https://github.com/termux/termux-packages/issues/202#issuecomment-1072898610_)
+
+
 <p align="center">SHMEM+</p>
 
 [session0](https://wiki.termux.com/wiki/FAQ) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago - 25 or 6 to 4 (Official Audio)-8A3HZvGN0qs.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1884)
