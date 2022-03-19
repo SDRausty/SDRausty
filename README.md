@@ -22,7 +22,7 @@
 
 [It did not work = It works = SPAM = off topic](https://github.com/termux/termux-packages/issues/202)
 
-[I felt that this topic is important enough to let upstream know too at https://github.com/POV-Ray/povray/issues/291, and it seems that upstream is not as eager to delete/minimize my hard effort/work with contributions as Termux are recently now.](https://github.com/termux/termux-packages/issues/202)  
+[I felt that this topic is important enough to let upstream know too at https://github.com/POV-Ray/povray/issues/291, and it seems that upstream is not as eager to delete/minimize my hard effort/work with contributions as Termux curators are recently now.](https://github.com/termux/termux-packages/issues/202)  
 
 [The SDRausty account is now banned for years at Gitter.  I still do not know why;  Can you please unban the SDRausty account at Gitter please?](https://github.com/termux/termux-packages/issues/202)
 
@@ -30,7 +30,7 @@
 
 [The reason TermuxArch exists is because of Termux user requests.  Much of the work at TermuxArch is modifying the scripts without cracking/rooting Android.](https://github.com/termux/termux-packages/issues/202)
 
-[> Pointing out that a package works in troop is off-topic in a package request issue like this one, so I disagree.](https://github.com/termux/termux-packages/issues/202)
+[> Pointing out that a package works in proot is off-topic in a package request issue like this one, so I disagree.](https://github.com/termux/termux-packages/issues/202)
 
 [Does this answer imply that granting op's request via TermuxArch should NOT have been announced to the Termux community.  Please keep in mind that finding a working `povray` in Termux PRoot took much time for it did NOT work in almost all PRoot solution is NOT effortless either.  Finding a solution that works consistently and reliably requires very much effort and time.  Rooting Android devices to use Termux seems to make absolutely no sense at all as privileged apps can run Android!  Do you not agree @Grimmer?](https://github.com/termux/termux-packages/issues/202)
 
