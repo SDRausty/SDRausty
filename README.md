@@ -26,13 +26,13 @@
 
 [The SDRausty account is now banned for years at Gitter.  I still do not know why;  Can you please unban the SDRausty account at Gitter please?](https://github.com/termux/termux-packages/issues/202)
 
-[> No, a package that works with glib in troop does not mean that it works with Termux/android.](https://github.com/termux/termux-packages/issues/202)
+[> No, a package that works with glib in proot does not mean that it works with Termux/android.](https://github.com/termux/termux-packages/issues/202)
 
-[The reason Termux Arch exists is because of Termux user requests.  Much of the work at Termux Arch is modifying the scripts without cracking/rooting Android.](https://github.com/termux/termux-packages/issues/202)
+[The reason TermuxArch exists is because of Termux user requests.  Much of the work at TermuxArch is modifying the scripts without cracking/rooting Android.](https://github.com/termux/termux-packages/issues/202)
 
 [> Pointing out that a package works in troop is off-topic in a package request issue like this one, so I disagree.](https://github.com/termux/termux-packages/issues/202)
 
-[Does this answer imply that granting op's request via Termux Arch should NOT have been announced to the Termux community.  Please keep in mind that finding a working `povray` in Termux P Root took much time for it did NOT work in almost all P Roots.  More so, finding a working Termux P Root solution is NOT effortless either.  Finding a solution that works consistently and reliably requires very much effort and time.  Rooting Android devices to use Termux seems to make absolutely no sense at all as privileged apps can run Android!  Do you not agree @Grimmer?](https://github.com/termux/termux-packages/issues/202)
+[Does this answer imply that granting op's request via TermuxArch should NOT have been announced to the Termux community.  Please keep in mind that finding a working `povray` in Termux PRoot took much time for it did NOT work in almost all PRoot solution is NOT effortless either.  Finding a solution that works consistently and reliably requires very much effort and time.  Rooting Android devices to use Termux seems to make absolutely no sense at all as privileged apps can run Android!  Do you not agree @Grimmer?](https://github.com/termux/termux-packages/issues/202)
 
 [> that the package in question was available from archlinux, which was frankly annoying ](https://github.com/termux/termux-packages/issues/202)
 
@@ -42,7 +42,7 @@
 
 [ >Pointing out that a package works in proot is off-topic](https://github.com/termux/termux-packages/issues/202#issuecomment-1072898610_)
 
-[Trivializing precious hard work given to Termux is shamefull and finding my hard work that eventually led to povray's native integration minimized and deleted and more of this same behaviour at https://github.com/termux by Termux's curators while supurfulous topics are displayed up front, and in plain sight consuming time and detracting from the main topic, "does it work well on handheld?" only speaks of our team's integraty.  Do you agree?](https://github.com/termux/termux-packages/issues/202#issuecomment-1072898610_)
+[Trivializing precious hard work given to Termux is shamefull and finding my hard work that eventually led to povray's native integration minimized and deleted and more of this same behaviour at https://github.com/termux by Termux's curators while supurfulous topics are displayed up front, and in plain sight consuming time and detracting from the main topic, "does it work well on handheld without root Android?" only speaks of our team's integraty.  Do you agree?](https://github.com/termux/termux-packages/issues/202#issuecomment-1072898610_)
 
 
 <p align="center">SHMEM+</p>
