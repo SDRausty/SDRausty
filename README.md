@@ -50,7 +50,7 @@
 
 ["I am throwing tantrums," by @agnostic-apollo ](https://github.com/termux/termux-app/issues/1242#issuecomment-1072940114_)
 
-Please pardon my comment that both of these answers are intimidation and perversion of work asked for, then bashed.  If Termux is asking/pleading for assistance, then outright bashing/deleting/hiding/ignoring and minimizing valid contibutions that truely work in Termux without rooting Android, the main motivation seems to be, "if it doesn't work, root your Android," logic at all costs to our end users, and Termux app development itself.  Kind of like Putin's plan, sacrifice Russia for the entire postwar world.](https://github.com/termux/termux-app/issues/1242#issuecomment-1072940114_)
+[Please pardon my comment that both of these answers are intimidation and perversion of work asked for, then bashed.  If Termux is asking/pleading for assistance, then outright bashing/deleting/hiding/ignoring and minimizing valid contibutions that truely work in Termux without rooting Android, the main motivation seems to be, "if it doesn't work, root your Android," logic at all costs to our end users, and Termux app development itself.  Kind of like Putin's plan, sacrifice Russia for the entire postwar world.](https://github.com/termux/termux-app/issues/1242#issuecomment-1072940114_)
 
 
 <p align="center">SHMEM+</p>
