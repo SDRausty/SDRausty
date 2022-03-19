@@ -42,7 +42,7 @@
 
 [ >Pointing out that a package works in proot is off-topic](https://github.com/termux/termux-packages/issues/202#issuecomment-1072898610_)
 
-[Trivializing precious hard work given to Termux is shamefull and finding my hard work that eventually led to povray's native integration minimized and deleted and more of this same behaviour at https://github.com/termux by Termux's curators while supurfulous topics are displayed up front, and in plain sight consuming time and detracting from the main topic, "does it work well on handheld without root Android?" only speaks of our team's integraty.  Do you agree?](https://github.com/termux/termux-packages/issues/202#issuecomment-1072898610_)
+[Trivializing precious hard work given to Termux is shamefull and finding my hard work that eventually led to povray's native integration minimized and deleted and more of this same behaviour at https://github.com/termux by Termux's curators while supurfulous topics are displayed up front, and in plain sight consuming time and detracting from the main topic, "does it work well on handheld without rooting Android?" only speaks of our team's integraty.  Do you agree?](https://github.com/termux/termux-packages/issues/202#issuecomment-1072898610_)
 
 
 <p align="center">SHMEM+</p>
