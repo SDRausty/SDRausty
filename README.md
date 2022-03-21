@@ -14,7 +14,7 @@
 
 <hr>
 
-[USA natural gas surplus](https://www.ecosia.org/search?q=USA+natural+gas+surplus)
+[USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
 
 [Does EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)
 
@@ -90,5 +90,12 @@ Isaiah 11:9 <q>They shall not hurt nor destroy in all my holy mountain: for the 
 <hr>
 
 [`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L230) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/)
+<hr>
+
+![Before the war Ukrainian President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine](https://raw.githubusercontent.com/SDRausty/SDRausty/master/_121993754_zelensky.jpg)
+
+[USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
+
+[Does EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)
 
 <!-- SDRausty/README.md EOF -->
