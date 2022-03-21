@@ -11,12 +11,12 @@
 <p align="center">When is <a href="https://github.com/buildAPKs">the holograph</a> going to sing?</p>
 
 <p align="right"><em><sup>by SDRausty</sup></em></p>
-
 <hr>
 
 [USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
 
 [Does EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)
+<hr>
 
 THIS GITHUB ACCOUNT WAS ASKED TO ROOT MANY TIMES DURING YEARS OF WORKING TOGETHER BY SOME THE CURRENT CURATORS OF TERMUX!
 
