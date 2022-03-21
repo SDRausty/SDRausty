@@ -32,7 +32,7 @@
 
 [> Pointing out that a package works in proot is off-topic in a package request issue like this one, so I disagree.](https://github.com/termux/termux-packages/issues/202)
 
-[Does this answer imply that granting op's request via TermuxArch should NOT have been announced to the Termux community.  Please keep in mind that finding a working `povray` in Termux PRoot took much time for it did NOT work in almost all PRoot solution is NOT effortless either.  Finding a solution that works consistently and reliably requires very much effort and time.  Rooting Android devices to use Termux seems to make absolutely no sense at all as privileged apps can run Android!  Do you not agree @Grimmer?](https://github.com/termux/termux-packages/issues/202)
+[Does this answer imply that granting op's request via TermuxArch should NOT have been announced to the Termux community.  Please keep in mind that finding a working `povray` in Termux PRoot took much time for it did NOT work in almost all PRoot solution is NOT effortless either.  Finding a solution that works consistently and reliably requires very much effort and time.  Rooting Android devices to use Termux seems to make absolutely no sense at all as privileged apps can run Android!  Do you not agree @Grimler91?](https://github.com/termux/termux-packages/issues/202)
 
 [> that the package in question was available from archlinux, which was frankly annoying ](https://github.com/termux/termux-packages/issues/202)
 
@@ -44,7 +44,11 @@
 
 [Trivializing precious hard work given to Termux is shamefull and finding my hard work that eventually led to povray's native integration minimized and deleted and more of this same behaviour at https://github.com/termux by Termux's curators while supurfulous topics are displayed up front, and in plain sight consuming time and detracting from the main topic, "does it work well on handheld without rooting Android?" only speaks of our team's integraty.  Do you agree?](https://github.com/termux/termux-packages/issues/202#issuecomment-1072898610_)
 
-[Why are all my comments minimized in this issue, and all across the board at https://github.com/termux suddenly minimized? The answers that I have received from @agnostic-apollo and @Grimler91:](https://github.com/termux/termux-app/issues/1242#issuecomment-1072940114_)
+[Why are all my comments minimized in this issue, and all across the board at https://github.com/termux suddenly minimized?](https://github.com/termux/termux-app/issues/1242#issuecomment-1072940114_)
+
+ANSWER: Were you asked to crack/break/root an Android smartphone via rooting an Android with unknown proprietary source code Android APK by the current curators of Termux!?
+
+THIS GITHUB ACCOUNT WAS TO DO SO MANY TIMES DURING OUR YEARS OF WORKING TOGETHER BY THE CURRENT CURATORS OF TERMUX!
 
 ![GOES16](https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg)
 
