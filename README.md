@@ -18,6 +18,11 @@
 [Does EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)
 <hr>
 
+![GOES16](https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg)
+
+![GOES17](https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg)
+<hr>
+
 THIS GITHUB ACCOUNT WAS ASKED TO CRACK/ROOT THEIR ANDROID MACHINE MANY TIMES DURING YEARS OF WORKING TOGETHER BY SOME THE CURRENT CURATORS OF TERMUX!
 
 [I would like to know why Termux is asking for help, then bashes its' helpers by banning, deleting and minimizing contributor's work that Termux user's are seeking to use on their Android palmheld devices. How will Termux users find what they are seeking for when work contributed to Termux for Termux end users is gone?](https://github.com/termux/termux-packages/issues/202#issuecomment-1072656070)
@@ -55,10 +60,6 @@ THIS GITHUB ACCOUNT WAS ASKED TO CRACK/ROOT THEIR ANDROID MACHINE MANY TIMES DUR
 ANSWER: Were you asked to crack/break/root an Android smartphone via rooting an Android with unknown proprietary source code Android APK by the current curators of Termux!?
 
 THIS GITHUB ACCOUNT WAS ASKED TO DO SO MANY TIMES DURING OUR YEARS OF WORKING TOGETHER BY SOME THE CURRENT CURATORS OF TERMUX!
-
-![GOES16](https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg)
-
-![GOES17](https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg)
 
 <p align="center">SHMEM+</p>
 
