@@ -46,12 +46,9 @@
 
 [Why are all my comments minimized in this issue, and all across the board at https://github.com/termux suddenly minimized? The answers that I have received from @agnostic-apollo and @Grimler91:](https://github.com/termux/termux-app/issues/1242#issuecomment-1072940114_)
 
-["I am spamming," by @Grimler91 ](https://github.com/termux/termux-app/issues/1242#issuecomment-1072940114_)
+![GOES16](https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg)
 
-["I am throwing tantrums," by @agnostic-apollo ](https://github.com/termux/termux-app/issues/1242#issuecomment-1072940114_)
-
-[Please pardon my comment that both of these answers are intimidation and perversion of work asked for, then bashed.  If Termux is asking/pleading for assistance, then outright bashing/deleting/hiding/ignoring and minimizing valid contibutions that truely work in Termux without rooting Android, the main motivation seems to be, "if it doesn't work, root your Android," logic at all costs to our end users, and Termux app development itself.  Kind of like Putin's plan, sacrifice Russia for the entire postwar world.](https://github.com/termux/termux-app/issues/1242#issuecomment-1072940114_)
-
+![GOES17](https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg)
 
 <p align="center">SHMEM+</p>
 
