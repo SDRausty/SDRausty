@@ -78,6 +78,8 @@ THIS GITHUB ACCOUNT WAS ASKED TO DO SO MANY TIMES DURING OUR YEARS OF WORKING TO
 
 ![Playing in the Snowscape, January 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
+Playing in the Snowscape, January 2022
+
 [Service Duck](https://github.com/serviceanimals) Chester 2 and [Service Dog](https://github.com/serviceanimals) Princess Playing in the Snowscape, January 2022
 <p>
 Isaiah 11:6 <q>The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.</q>
@@ -92,6 +94,8 @@ Isaiah 11:9 <q>They shall not hurt nor destroy in all my holy mountain: for the 
 <hr>
 
 ![Before the war Ukrainian President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine](https://raw.githubusercontent.com/SDRausty/SDRausty/master/_121993754_zelensky.jpg)
+
+Before the war Ukrainian President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine
 
 [USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
 
