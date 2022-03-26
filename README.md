@@ -30,10 +30,9 @@ President Vladimir Putin has played too much with the button. He's crazy!
 
 https://user-images.githubusercontent.com/27742457/160233291-7c238232-8b5f-4acf-b013-f7f80496eabd.mp4
 
-
 https://user-images.githubusercontent.com/27742457/160233370-9c30c8e0-41ba-4170-9c85-647b68b935ff.mp4
 
-https://user-images.githubusercontent.com/27742457/160236863-f5d8dcfb-455d-4c77-a526-4638a1b50fdb.mp4
+![Screenshot_20220326-072823.jpg](https://user-images.githubusercontent.com/27742457/160236863-f5d8dcfb-455d-4c77-a526-4638a1b50fdb.mp4)
 
 He wants his fuse to be lit for post World War III.
 Он хочет, чтобы его фитиль загорелся для послезавтра Третьей мировой войны.
