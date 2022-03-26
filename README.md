@@ -112,7 +112,7 @@ https://user-images.githubusercontent.com/27742457/160233291-7c238232-8b5f-4acf-
 https://user-images.githubusercontent.com/27742457/160233370-9c30c8e0-41ba-4170-9c85-647b68b935ff.mp4
 
 He wants his fuse to be lit for post World War III.
-Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.
+Он хочет, чтобы его фитиль загорелся для послезавтра Третьей мировой войны.
 ![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)
 
 <!-- SDRausty/README.md EOF -->
