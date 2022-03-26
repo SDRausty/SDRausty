@@ -41,6 +41,8 @@ President Vladimir Putin has played with the nuclear war button too much.  This 
 
 [![Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Russian_army_food_truck-ym6vJ7dC-QQ.mp4)
 
+[кухни на калошах](https://www.google.com/search?source=univ&tbm=isch&q=%D0%BA%D1%83%D1%85%D0%BD%D0%B8+%D0%BD%D0%B0+%D0%BA%D0%B0%D0%BB%D0%BE%D1%88%D0%B0%D1%85&fir=T91DhINvT8zB-M%252CPcIzeGfXxb2t0M%252C_%253Bph01ixoMWaHROM%252CPcIzeGfXxb2t0M%252C_%253BkWiA7FifsHb4bM%252CPcIzeGfXxb2t0M%252C_%253BQOQuBQISV6w6XM%252CPcIzeGfXxb2t0M%252C_%253B3tjf4SQrfnVaZM%252CPcIzeGfXxb2t0M%252C_%253BxNpZmJmLE1gWkM%252CPcIzeGfXxb2t0M%252C_%253BGOvyisCC5C3PzM%252Cjebxkn_i183VWM%252C_%253ByDMUz6r11KujoM%252CPcIzeGfXxb2t0M%252C_%253B_fBlIu9s6emfVM%252CaElbyLX0lKoT3M%252C_%253BD-LFhYV3_CSyNM%252CSkhX-bARFba5FM%252C_%253BpjzrM7-4-88IeM%252C9mVCU1HhJAvA3M%252C_%253Bh5PzbZYSNybUyM%252CcQ6cWehn-9v_6M%252C_&usg=AI4_-kTbPIB2y7UwWdGyph2AKy5Lr5DFnA&sa=X&ved=2ahUKEwiilaLGyOT2AhX3GTQIHXSTANkQ7Al6BAgEEBg)
+
 https://user-images.githubusercontent.com/27742457/160233291-7c238232-8b5f-4acf-b013-f7f80496eabd.mp4
 
 https://user-images.githubusercontent.com/27742457/160233370-9c30c8e0-41ba-4170-9c85-647b68b935ff.mp4
@@ -53,7 +55,7 @@ He wants his fuse to be lit for a post World War III.
 ![max1200.jpg](./max1200.jpg)
 <hr>
 <!-- Reference https://github.com/YourUserAccount/YourProject/blob/master/DirectoryPath/ReadMe.md -->
-<img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg?sanitize=true" alt="GOES16">
+<img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg?raw=true" alt="GOES16">
 <img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg?sanitize=true" alt="GOES17">
 <hr>
 
@@ -67,7 +69,7 @@ THIS GITHUB ACCOUNT WAS ASKED BY TERMUX CURATORS TO [CRACK/ROOT THEIR ANDROID MA
 
 [It did not work = It works = SPAM = off topic](https://github.com/termux/termux-packages/issues/202)
 
-[I felt that this topic is important enough to let upstream know too at https://github.com/POV-Ray/povray/issues/291, and it seems that upstream is not as eager to delete/minimize my hard effort/work with contributions as Termux curators are recently now.](https://github.com/termux/termux-packages/issues/202)  
+[I felt that this topic is important enough to let upstream know too at https://github.com/POV-Ray/povray/issues/291, and it seems that upstream is not as eager to delete/minimize my hard effort/work with contributions as Termux curators are recently now.](https://github.com/termux/termux-packages/issues/202)
 
 [The SDRausty account is now banned for years at Termux Gitter.  I still do not know why;  Can you please unban the SDRausty account at Termux Gitter please?](https://github.com/termux/termux-packages/issues/202)
 
