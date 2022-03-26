@@ -40,7 +40,7 @@ He wants his fuse to be lit for post World War III.
 ![max1200.jpg](./max1200.jpg)
 <hr>
 <!-- Reference https://github.com/YourUserAccount/YourProject/blob/master/DirectoryPath/ReadMe.md -->
-<img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg?sanitize=true&raw=true" alt="GOES16">
+<img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg?sanitize=true" alt="GOES16">
 <img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg?sanitize=true&raw=true" alt="GOES17">
 <hr>
 
