@@ -35,8 +35,9 @@ I am happy that I can try to terraform my crib, and you can too!
 
 Before the war Ukrainian President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine
 
-President Vladimir Putin has played too much with the nuclear war button. He is crazy!
-Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!
+President Vladimir Putin has played with the nuclear war button too much.  This is why he has become insane!
+
+Президент Владимир Путин слишком много играл с кнопкой ядерной войны.  Вот почему он сошел с ума!
 
 [![Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Russian_army_food_truck-ym6vJ7dC-QQ.mp4)
 
