@@ -1,3 +1,4 @@
+<head>
 window.onload = function() {
     var image = document.getElementById("img");
 
@@ -7,6 +8,7 @@ window.onload = function() {
 
     setInterval(updateImage, 1000);
 }
+</head>
 
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
 
