@@ -16,6 +16,8 @@
 [USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
 
 [Does EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)
+
+![Letter from President Joe Biden, March 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Screenshot_20220326-060434-362.jpg)
 <hr>
 <!-- Reference https://github.com/YourUserAccount/YourProject/blob/master/DirectoryPath/ReadMe.md -->
 <img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg?sanitize=true&raw=true" alt="GOES16">
