@@ -25,9 +25,9 @@ terraform your nest
 
 терраформировать свое гнездо
 
-I am happy that I can try to terraform my crib, and you can too!
+I am very happy that I can try to terraform my crib, and you can too!
 
-Я счастлив, что могу попробуй терраформировать свою кроватку, и вы тоже можете!
+я очень счастлив, что могу попробуй терраформировать свою кроватку, и вы тоже можете!
 
 ![Letter from President Joe Biden, March 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Screenshot_20220326-060434-362.jpg)
 
@@ -138,7 +138,7 @@ terraform your nest
 
 терраформировать свое гнездо
 
-I am happy that I can try to terraform my crib, and you can too!
+I am very happy that I can try to terraform my crib, and you can too!
 
-Я счастлив, что могу попробуй терраформировать свою кроватку, и вы тоже можете!
+я очень счастлив, что могу попробуй терраформировать свою кроватку, и вы тоже можете!
 <!-- SDRausty/README.md EOF -->
