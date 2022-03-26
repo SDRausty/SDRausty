@@ -38,6 +38,7 @@ https://user-images.githubusercontent.com/27742457/160236863-f5d8dcfb-455d-4c77-
 He wants his fuse to be lit for post World War III.
 Он хочет, чтобы его фитиль загорелся для послезавтра Третьей мировой войны.
 ![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)
+![max1200.jpg](./max1200.jpg)
 <hr>
 <!-- Reference https://github.com/YourUserAccount/YourProject/blob/master/DirectoryPath/ReadMe.md -->
 <img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg?sanitize=true&raw=true" alt="GOES16">
