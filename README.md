@@ -1,4 +1,14 @@
-<script src="./scripts.js"></script>
+<script>
+window.onload = function() {
+    var image = document.getElementById("img");
+
+    function updateImage() {
+        image.src = image.src.split("?")[0] + "?" + new Date().getTime();
+    }
+
+    setInterval(updateImage, 1000);
+}
+</script>
 
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
 
@@ -19,10 +29,8 @@
 
 [Does EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)
 <hr>
-
 <img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg" alt="GOES16">
-
-<img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg" alt="GOES17">
+<img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg" alt="GOES16">
 <hr>
 
 THIS GITHUB ACCOUNT WAS ASKED BY TERMUX TO CRACK/ROOT THEIR ANDROID MACHINE MANY TIMES DURING YEARS OF WORKING TOGETHER BY SOME THE CURRENT CURATORS OF TERMUX!
