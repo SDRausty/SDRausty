@@ -1,3 +1,4 @@
+<head>
 // create a new timestamp
 var timestamp = new Date().getTime();
 
@@ -15,6 +16,7 @@ function refreshImage(imgElement, imgURL){
 
     el.src = imgURL + queryString;
 }
+</head>
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
 
 <h4 align="center"><em>Androids be more than computers!</em></h4>
