@@ -18,6 +18,24 @@
 [Does EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)
 
 ![Letter from President Joe Biden, March 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Screenshot_20220326-060434-362.jpg)
+
+![Before the war Ukrainian President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine](https://raw.githubusercontent.com/SDRausty/SDRausty/master/_121993754_zelensky.jpg)
+
+Before the war Ukrainian President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine
+
+President Vladimir Putin has played too much with the button. He's crazy!
+Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!
+
+[![Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Russian_army_food_truck-ym6vJ7dC-QQ.mp4)
+
+https://user-images.githubusercontent.com/27742457/160233291-7c238232-8b5f-4acf-b013-f7f80496eabd.mp4
+
+
+https://user-images.githubusercontent.com/27742457/160233370-9c30c8e0-41ba-4170-9c85-647b68b935ff.mp4
+
+He wants his fuse to be lit for post World War III.
+Он хочет, чтобы его фитиль загорелся для послезавтра Третьей мировой войны.
+![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)
 <hr>
 <!-- Reference https://github.com/YourUserAccount/YourProject/blob/master/DirectoryPath/ReadMe.md -->
 <img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg?sanitize=true&raw=true" alt="GOES16">
@@ -95,26 +113,7 @@ Isaiah 11:9 <q>They shall not hurt nor destroy in all my holy mountain: for the 
 [`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L230) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/)
 <hr>
 
-![Before the war Ukrainian President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine](https://raw.githubusercontent.com/SDRausty/SDRausty/master/_121993754_zelensky.jpg)
-
-Before the war Ukrainian President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine
-
 [USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
 
 [Does EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)
-
-President Vladimir Putin has played too much with the button. He's crazy!
-Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!
-
-[![Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Russian_army_food_truck-ym6vJ7dC-QQ.mp4)
-
-https://user-images.githubusercontent.com/27742457/160233291-7c238232-8b5f-4acf-b013-f7f80496eabd.mp4
-
-
-https://user-images.githubusercontent.com/27742457/160233370-9c30c8e0-41ba-4170-9c85-647b68b935ff.mp4
-
-He wants his fuse to be lit for post World War III.
-Он хочет, чтобы его фитиль загорелся для послезавтра Третьей мировой войны.
-![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)
-<audio src="The_Cranberries_Zombie-6Ejga4kJUts.mp" autoplay loop></audio>
 <!-- SDRausty/README.md EOF -->
