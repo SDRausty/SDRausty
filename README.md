@@ -57,7 +57,7 @@ He wants his fuse to be lit for post World War III.
 <img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg?sanitize=true" alt="GOES17">
 <hr>
 
-THIS GITHUB ACCOUNT WAS ASKED BY TERMUX TO CRACK/ROOT THEIR ANDROID MACHINE MANY TIMES DURING THE YEARS WHEN I HAD THOUGHT WE WERE WORKING TOGETHER WITH A COMMON GOAL IN MIND BY SOME THE CURRENT CURATORS OF TERMUX!
+THIS GITHUB ACCOUNT WAS ASKED BY TERMUX TO [CRACK/ROOT THEIR ANDROID MACHINE](https://sdrausty.github.io/pages/rooting) MANY TIMES DURING THE YEARS WHEN I HAD THOUGHT WE WERE WORKING TOGETHER WITH A COMMON GOAL IN MIND BY SOME THE CURRENT CURATORS OF TERMUX!
 
 [I would like to know why Termux is asking for help, then bashes its' helpers by banning, deleting and minimizing contributor's work that Termux user's are seeking to use on their Android palmheld devices. How will Termux users find what they are seeking for when work contributed to Termux for Termux end users is gone?](https://github.com/termux/termux-packages/issues/202#issuecomment-1072656070)
 
@@ -91,7 +91,7 @@ THIS GITHUB ACCOUNT WAS ASKED BY TERMUX TO CRACK/ROOT THEIR ANDROID MACHINE MANY
 
 [Why are all my comments minimized in this issue, and all across the board at https://github.com/termux suddenly minimized?](https://github.com/termux/termux-app/issues/1242#issuecomment-1072940114_)
 
-ANSWER: Were you asked to crack/break/root an Android smartphone via rooting an Android with a proprietary unknown source code Android APK by the current curators of Termux!?
+ANSWER: Were you asked to [crack/break/root an Android smartphone via rooting](https://sdrausty.github.io/pages/rooting) an Android with a proprietary unknown source code Android APK by the current curators of Termux!?
 
 THIS GITHUB ACCOUNT WAS ASKED BY TERMUX TO DO SO MANY TIMES DURING THE YEARS WHEN I HAD THOUGHT WE WERE WORKING TOGETHER WITH A COMMON GOAL IN MIND BY SOME THE CURRENT CURATORS OF TERMUX!
 
