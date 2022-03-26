@@ -105,15 +105,13 @@ President Vladimir Putin has played too much with the button. He's crazy!
 Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!
 
 [![Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Russian_army_food_truck-ym6vJ7dC-QQ.mp4)
-echo ech0
 
-<video src="https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4"></video>
+https://user-images.githubusercontent.com/27742457/160233291-7c238232-8b5f-4acf-b013-f7f80496eabd.mp4
 
-echo ech1
-<video src='https://raw.githubusercontent.com/SDRausty/SDRausty/master/Russian_army_food_truck-ym6vJ7dC-QQ.mp4' width=180/></video>
 
-echo ech2
-He wants his fuse to be lit for World War III.
+https://user-images.githubusercontent.com/27742457/160233370-9c30c8e0-41ba-4170-9c85-647b68b935ff.mp4
+
+He wants his fuse to be lit for post World War III.
 Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.
 ![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)
 
