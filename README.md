@@ -1,17 +1,3 @@
-<head>
-<script>
-window.onload = function() {
-    var image = document.getElementById("img");
-
-    function updateImage() {
-        image.src = image.src.split("?")[0] + "?" + new Date().getTime();
-    }
-
-    setInterval(updateImage, 1000);
-}
-</script>
-</head>
-
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
 
 <h4 align="center"><em>Androids be more than computers!</em></h4>
