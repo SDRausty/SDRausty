@@ -103,8 +103,11 @@ Before the war Ukrainian President Volodymyr Zelensky paid regular visits to the
 
 President Vladimir Putin has played too much with the button. He's crazy!
 Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!
+
 [![Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Russian_army_food_truck-ym6vJ7dC-QQ.mp4)
+
 <video src='https://raw.githubusercontent.com/SDRausty/SDRausty/master/Russian_army_food_truck-ym6vJ7dC-QQ.mp4' width=180/>
+
 He wants his fuse to be lit for World War III.
 Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.
 ![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)
