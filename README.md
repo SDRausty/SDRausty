@@ -101,4 +101,12 @@ Before the war Ukrainian President Volodymyr Zelensky paid regular visits to the
 
 [Does EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)
 
+President Vladimir Putin has played too much with the button. He's crazy!
+Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!
+![Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Russian_army_food_truck-ym6vJ7dC-QQ.mp4)
+
+He wants his fuse to be lit for World War III.
+Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.
+![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)
+
 <!-- SDRausty/README.md EOF -->
