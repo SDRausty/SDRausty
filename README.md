@@ -18,7 +18,16 @@
 [Does the EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)  Why?  Would you rather be a little cooler, or watch WW3 ignite?  Turn your gas heating off, please!
 
 geoform your nest
+
 геоформировать свое гнездо
+
+terraform your nest
+
+терраформировать свое гнездо
+
+I am happy that I can terraform my crib, and you can too!
+
+Я счастлив, что могу терраформировать свою кроватку, и вы тоже можете!
 
 ![Letter from President Joe Biden, March 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Screenshot_20220326-060434-362.jpg)
 
@@ -123,6 +132,14 @@ Isaiah 11:9 <q>They shall not hurt nor destroy in all my holy mountain: for the 
 [Does the EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)  Why?  Would you rather be a little cooler, or watch WW3 ignite?  Turn your gas heating off, please!
 
 geoform your nest
+
 геоформировать свое гнездо
 
+terraform your nest
+
+терраформировать свое гнездо
+
+I am happy that I can terraform my crib, and you can too!
+
+Я счастлив, что могу терраформировать свою кроватку, и вы тоже можете!
 <!-- SDRausty/README.md EOF -->
