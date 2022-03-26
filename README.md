@@ -18,6 +18,10 @@
 [Does EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)
 <hr>
 
+<img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg" id="reloader" onLoad="setTimeout( () => { document.getElementById('reloader').src='test2.jpg' + '?' + new Date().getMilliseconds() } ,5000)" />
+
+<img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg" id="reloader" onLoad="setTimeout( () => { document.getElementById('reloader').src='test2.jpg' + '?' + new Date().getMilliseconds() } ,5000)" />
+
 ![GOES16](https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg)
 
 ![GOES17](https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg)
