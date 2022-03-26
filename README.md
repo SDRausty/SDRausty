@@ -23,7 +23,7 @@
 
 Before the war Ukrainian President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine
 
-President Vladimir Putin has played too much with the button. He's crazy!
+President Vladimir Putin has played too much with the button. He is crazy!
 Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!
 
 [![Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Russian_army_food_truck-ym6vJ7dC-QQ.mp4)
@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/27742457/160233370-9c30c8e0-41ba-4170-
 
 He wants his fuse to be lit for post World War III.
 Он хочет, чтобы его фитиль загорелся для послезавтра Третьей мировой войны.
-![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)
+![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/0_UKRAINE-RUSSIA-CONFLICT.jpg)
 ![max1200.jpg](./max1200.jpg)
 <hr>
 <!-- Reference https://github.com/YourUserAccount/YourProject/blob/master/DirectoryPath/ReadMe.md -->
