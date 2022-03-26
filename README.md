@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/27742457/160233291-7c238232-8b5f-4acf-
 
 https://user-images.githubusercontent.com/27742457/160233370-9c30c8e0-41ba-4170-9c85-647b68b935ff.mp4
 
-[![БЕРДЯНСК: взрывы и пожар в порту 24 марта 2022 года](Screenshot_20220326-072823.jpg)](https://user-images.githubusercontent.com/27742457/160236863-f5d8dcfb-455d-4c77-a526-4638a1b50fdb.mp4)
+[![БЕРДЯНСК: взрывы и пожар в порту 24 марта 2022 года](Screenshot_20220326-074124.jpg)](https://user-images.githubusercontent.com/27742457/160236863-f5d8dcfb-455d-4c77-a526-4638a1b50fdb.mp4)
 Example:
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
