@@ -114,5 +114,5 @@ https://user-images.githubusercontent.com/27742457/160233370-9c30c8e0-41ba-4170-
 He wants his fuse to be lit for post World War III.
 Он хочет, чтобы его фитиль загорелся для послезавтра Третьей мировой войны.
 ![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)
-
+<audio src="The_Cranberries_Zombie-6Ejga4kJUts.mp" autoplay loop></audio>
 <!-- SDRausty/README.md EOF -->
