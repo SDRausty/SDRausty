@@ -1,3 +1,13 @@
+window.onload = function() {
+    var image = document.getElementById("img");
+
+    function updateImage() {
+        image.src = image.src.split("?")[0] + "?" + new Date().getTime();
+    }
+
+    setInterval(updateImage, 1000);
+}
+
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
 
 <h4 align="center"><em>Androids be more than computers!</em></h4>
@@ -17,6 +27,10 @@
 
 [Does EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)
 <hr>
+
+<img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg" alt="GOES16" width="678" height="678">
+
+<img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg" alt="GOES17" width="678" height="678">
 
 ![GOES16](https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg)
 
