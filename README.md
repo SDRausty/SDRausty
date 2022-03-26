@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/27742457/160233370-9c30c8e0-41ba-4170-
 
 [![БЕРДЯНСК: взрывы и пожар в порту 24 марта 2022 года](Screenshot_20220326-074124.jpg)](https://user-images.githubusercontent.com/27742457/160236863-f5d8dcfb-455d-4c77-a526-4638a1b50fdb.mp4)
 
-He wants his fuse to be lit for post World War III.
+He wants his fuse to be lit for a post World War III.
 Он хочет, чтобы его фитиль загорелся для послезавтра Третьей мировой войны.
 ![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/0_UKRAINE-RUSSIA-CONFLICT.jpg)
 ![max1200.jpg](./max1200.jpg)
