@@ -19,7 +19,7 @@
 <hr>
 <!-- Reference https://github.com/YourUserAccount/YourProject/blob/master/DirectoryPath/ReadMe.md -->
 <img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg?sanitize=true&raw=true" alt="GOES16">
-<img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg" alt="GOES17">
+<img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg?sanitize=true&raw=true" alt="GOES17">
 <hr>
 
 THIS GITHUB ACCOUNT WAS ASKED BY TERMUX TO CRACK/ROOT THEIR ANDROID MACHINE MANY TIMES DURING YEARS OF WORKING TOGETHER BY SOME THE CURRENT CURATORS OF TERMUX!
