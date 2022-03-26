@@ -1,4 +1,4 @@
-<script src="/scripts.js"></script>
+<script src="./scripts.js"></script>
 
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
 
