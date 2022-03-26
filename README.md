@@ -28,9 +28,9 @@ window.onload = function() {
 [Does EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)
 <hr>
 
-<img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg" alt="GOES16" width="678" height="678">
+<img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg" alt="GOES16">
 
-<img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg" alt="GOES17" width="678" height="678">
+<img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg" alt="GOES17">
 
 ![GOES16](https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg)
 
