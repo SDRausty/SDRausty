@@ -53,7 +53,7 @@ He wants his fuse to be lit for a post World War III.
 ![max1200.jpg](./max1200.jpg)
 <hr>
 <!-- Reference https://github.com/YourUserAccount/YourProject/blob/master/DirectoryPath/ReadMe.md -->
-<img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg?sanitize=true" alt="GOES16">
+<img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg?raw=true" alt="GOES16">
 <img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg?sanitize=true" alt="GOES17">
 <hr>
 
@@ -67,7 +67,7 @@ THIS GITHUB ACCOUNT WAS ASKED BY TERMUX CURATORS TO [CRACK/ROOT THEIR ANDROID MA
 
 [It did not work = It works = SPAM = off topic](https://github.com/termux/termux-packages/issues/202)
 
-[I felt that this topic is important enough to let upstream know too at https://github.com/POV-Ray/povray/issues/291, and it seems that upstream is not as eager to delete/minimize my hard effort/work with contributions as Termux curators are recently now.](https://github.com/termux/termux-packages/issues/202)  
+[I felt that this topic is important enough to let upstream know too at https://github.com/POV-Ray/povray/issues/291, and it seems that upstream is not as eager to delete/minimize my hard effort/work with contributions as Termux curators are recently now.](https://github.com/termux/termux-packages/issues/202)
 
 [The SDRausty account is now banned for years at Termux Gitter.  I still do not know why;  Can you please unban the SDRausty account at Termux Gitter please?](https://github.com/termux/termux-packages/issues/202)
 
