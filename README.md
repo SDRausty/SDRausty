@@ -29,15 +29,15 @@ I am very happy that I can try to terraform my crib, and you can attempt to terr
 
 я очень счастлив, что могу попробуй терраформировать свою кроватку, и вы тоже можете попробовать терраформировать свою кроватку!
 
-![Letter from President Joe Biden, March 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Screenshot_20220326-060434-362.jpg)
+![Letter from President Joe Biden, March 23 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Screenshot_20220326-060434-362.jpg)
 
-![Before the war Ukrainian President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine](https://raw.githubusercontent.com/SDRausty/SDRausty/master/_121993754_zelensky.jpg)
+![Before the war in the Ukrainian, President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine](https://raw.githubusercontent.com/SDRausty/SDRausty/master/_121993754_zelensky.jpg)
 
-Before the war Ukrainian President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine
+Before the war in the Ukrainian, President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine
 
-President Vladimir Putin has played with the nuclear war button too much.  This is why he is insane!
+President Vladimir Putin has played with the nuclear war button much too much.  This is why he is insane!  Can we please help him and his country, the people of the Russian Federation?
 
-Президент Владимир Путин слишком много играл с кнопкой ядерной войны.  Вот почему он сошел с ума!
+Президент Владимир Путин слишком много играл с кнопкой ядерной войны.  Вот почему он сошел с ума!  Можем ли мы помочь ему и его стране, народу Российской Федерации?
 
 [![Президент Владимир Путин слишком много играл с кнопкой. Он сумасшедший!](https://raw.githubusercontent.com/SDRausty/SDRausty/master/1173.jpg)](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Russian_army_food_truck-ym6vJ7dC-QQ.mp4)
 
