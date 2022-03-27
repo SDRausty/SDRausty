@@ -25,9 +25,9 @@ terraform your nest
 
 терраформировать свое гнездо
 
-I am very happy that I can try to terraform my crib, and you can too!
+I am very happy that I can try to terraform my crib, and you can attempt terraform your crib too!
 
-я очень счастлив, что могу попробуй терраформировать свою кроватку, и вы тоже можете!
+я очень счастлив, что могу попробуй терраформировать свою кроватку, и вы тоже можете попробовать терраформировать свою кроватку!
 
 ![Letter from President Joe Biden, March 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Screenshot_20220326-060434-362.jpg)
 
@@ -35,7 +35,7 @@ I am very happy that I can try to terraform my crib, and you can too!
 
 Before the war Ukrainian President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine
 
-President Vladimir Putin has played with the nuclear war button too much.  This is why he has become insane!
+President Vladimir Putin has played with the nuclear war button too much.  This is why he is insane!
 
 Президент Владимир Путин слишком много играл с кнопкой ядерной войны.  Вот почему он сошел с ума!
 
