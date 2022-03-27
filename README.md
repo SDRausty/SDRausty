@@ -25,7 +25,7 @@ terraform your nest
 
 терраформировать свое гнездо
 
-I am very happy that I can try to terraform my crib, and you can attempt terraform your crib too!
+I am very happy that I can try to terraform my crib, and you can attempt to terraform your crib too!
 
 я очень счастлив, что могу попробуй терраформировать свою кроватку, и вы тоже можете попробовать терраформировать свою кроватку!
 
