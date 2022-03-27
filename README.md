@@ -60,9 +60,10 @@ He wants his fuse to be lit for a post World War III.
   <h3 align="center">GOES16</h3>
 </p>
 
-<img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg?raw=true" alt="GOES16">
-<img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg?sanitize=true" alt="GOES17">
-<hr>
+<p align="center">
+  <img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg"/>
+  <h3 align="center">GOES17</h3>
+</p>
 
 THIS GITHUB ACCOUNT WAS ASKED BY TERMUX CURATORS TO [CRACK/ROOT THEIR ANDROID MACHINE](https://sdrausty.github.io/pages/rooting) MANY TIMES DURING THE YEARS WHEN I HAD THOUGHT WE WERE WORKING TOGETHER WITH A COMMON GOAL IN MIND BY SOME THE CURRENT CURATORS OF TERMUX!
 
