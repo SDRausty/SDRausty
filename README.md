@@ -31,9 +31,9 @@ I am very happy that I can try to terraform my crib, and you can attempt to terr
 
 ![Letter from President Joe Biden, March 23 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Screenshot_20220326-060434-362.jpg)
 
-surrender to ukraine;  join NATO
+surrender to Ukraine slovaks and slovakians;  join NATO please
 
-сдаться Украине; присоединиться к НАТО
+сдать Украине словаков и словенцев; вступай в НАТО пожалуйста
 
 ![Before the war in the Ukrainian, President Volodymyr Zelensky paid regular visits to the front line in eastern Ukraine](https://raw.githubusercontent.com/SDRausty/SDRausty/master/_121993754_zelensky.jpg)
 
