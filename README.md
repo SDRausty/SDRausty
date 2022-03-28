@@ -12,6 +12,8 @@
 
 <p align="right"><em><sup>by SDRausty</sup></em></p>
 <hr>
+[rouge Termux curators #2](https://github.com/SDRausty/builtAPKs/issues/2)
+<hr>
 
 [USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
 
