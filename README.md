@@ -35,6 +35,7 @@ I am very happy that I can try to terraform my crib, and you can attempt to terr
 ![Letter from President Joe Biden, March 23 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Screenshot_20220326-060434-362.jpg)
 
 ![20220325-biden-poland.jpg](20220325-biden-poland.jpg)
+![max1200.jpg](./max1200.jpg)
 The mass surrender of the Slavs to Ukraine is requested; join NATO, please.
 
 в массовом порядке запросили массовую сдачу славян Украине; вступайте в НАТО, пожалуйста.	
@@ -60,7 +61,6 @@ https://user-images.githubusercontent.com/27742457/160233370-9c30c8e0-41ba-4170-
 He wants his fuse to be lit for a post World War III.
 Он хочет, чтобы его фитиль загорелся для послезавтра Третьей мировой войны.
 ![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/0_UKRAINE-RUSSIA-CONFLICT.jpg)
-![max1200.jpg](./max1200.jpg)
 <hr>
 <!-- Reference https://github.com/YourUserAccount/YourProject/blob/master/DirectoryPath/ReadMe.md -->
 <p align="center">
