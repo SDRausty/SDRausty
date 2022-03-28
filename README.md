@@ -34,7 +34,7 @@ I am very happy that I can try to terraform my crib, and you can attempt to terr
 
 ![Letter from President Joe Biden, March 23 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/Screenshot_20220326-060434-362.jpg)
 
-![biden260322sp_NSTfield_image_socialmedia](biden260322sp_NSTfield_image_socialmedia~2.jpg)
+![20220325-biden-poland.jpg](20220325-biden-poland.jpg)
 The mass surrender of the Slavs to Ukraine is requested; join NATO, please.
 
 в массовом порядке запросили массовую сдачу славян Украине; вступайте в НАТО, пожалуйста.	
