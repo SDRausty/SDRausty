@@ -20,6 +20,8 @@
 
 >du da math;  can't catch id
 
+`while : ; do play-audio ~/2dTermuxArch/audio/stereo/STREETZ-CAMPAIGN-ACEY-ft-YOUNG-D-SHrksaZlb3c.mp3 ; sl=0$(shuf -n 1 -i 2-24) ; printf %s $sl ; sleep $sl ; done &`
+
 [Does the EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)  Why?  Would you rather be a little cooler, or watch WW3 ignite?  Turn your gas heating off right now, please!
 
 geoform your nest
