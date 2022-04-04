@@ -24,6 +24,8 @@ This is just toxic.
 _Originally posted by @yakovlevegor in https://github.com/SDRausty/builtAPKs/issues/2#issuecomment-1086888064_
 <hr>
 
+https://user-images.githubusercontent.com/27742457/161573487-d3682652-a8cd-4c8c-9730-71092ab55042.mp4
+
 [USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
 
 Liquid hydrogen and liquid natural gas container ship terminals for EU!
