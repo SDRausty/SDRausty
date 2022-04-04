@@ -14,7 +14,7 @@
 <hr>
 
 [rouge Termux curators #2](https://github.com/SDRausty/builtAPKs/issues/2)
-> exploiting GitHub features by
+> exploiting GitHub
 <hr>
 
 [USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
