@@ -15,13 +15,7 @@
 
 [rouge Termux curators #2](https://github.com/SDRausty/builtAPKs/issues/2)
 
->> exploiting GitHub features by marking valid comments as spam
-
-> an applauded request spammed by them via exploiting GitHub features
-
-This is just toxic.
-
-_Originally posted by @yakovlevegor in https://github.com/SDRausty/builtAPKs/issues/2#issuecomment-1086888064_
+>> exploiting GitHub features by
 <hr>
 
 [USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
