@@ -125,6 +125,8 @@ THIS GITHUB ACCOUNT WAS ASKED BY TERMUX CURATORS TO DO SO MANY TIMES DURING THE 
 
 <p align="center">SHMEM+</p>
 
+https://user-images.githubusercontent.com/27742457/161581162-8235fbdb-8c07-42e7-ac7b-c2ce9af990ba.mp4
+
 [`while : ; do play-audio ~/2dTermuxArch/audio/stereo/STREETZ-CAMPAIGN-ACEY-ft-YOUNG-D-SHrksaZlb3c.mp3 ; sl=0$(shuf -n 1 -i 2-24) ; printf %s $sl ; sleep $sl ; done &`](https://github.com/WAE/wae/blob/master/wae.bash)
 
 [session0](https://wiki.termux.com/wiki/FAQ) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago - 25 or 6 to 4 (Official Audio)-8A3HZvGN0qs.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1884)
