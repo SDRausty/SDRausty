@@ -14,7 +14,9 @@
 <hr>
 
 [rouge Termux curators #2](https://github.com/SDRausty/builtAPKs/issues/2)
-> exploiting GitHub
+>everyone
+
+A `win win` includes everyone because everyone wins.
 <hr>
 
 [USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
