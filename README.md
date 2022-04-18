@@ -78,8 +78,6 @@ He wants his fuse to be lit for a post World War III.
   <h3 align="center">GOES17</h3>
 </p>
 
-THIS GITHUB ACCOUNT WAS ASKED BY TERMUX CURATORS TO [CRACK/ROOT THEIR ANDROID MACHINE](https://sdrausty.github.io/pages/rooting) MANY TIMES DURING THE YEARS WHEN I HAD THOUGHT WE WERE WORKING TOGETHER WITH A COMMON GOAL IN MIND BY SOME THE CURRENT CURATORS OF TERMUX!
-
 [I would like to know why Termux is asking for help, then bashes its' helpers by banning, deleting and minimizing contributor's work that Termux user's are seeking to use on their Android palmheld devices. How will Termux users find what they are seeking for when work contributed to Termux for Termux end users is gone?](https://github.com/termux/termux-packages/issues/202#issuecomment-1072656070)
 
 [> Why not run POV-Ray on your Android?](https://github.com/termux/termux-packages/issues/202)
