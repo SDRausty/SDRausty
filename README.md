@@ -112,7 +112,7 @@ He wants his fuse to be lit for a post World War III.
 
 ANSWER: Were you asked to [crack/break/root an Android smartphone via rooting](https://sdrausty.github.io/pages/rooting) an Android with a proprietary unknown source code Android APK by the current curators of Termux!?
 
-THIS GITHUB ACCOUNT WAS ASKED BY TERMUX CURATORS TO DO SO MANY TIMES DURING THE YEARS WHEN I HAD THOUGHT WE WERE WORKING TOGETHER WITH A COMMON GOAL IN MIND BY SOME THE CURRENT CURATORS OF TERMUX!
+THIS GITHUB ACCOUNT WAS ASKED BY TERMUX CURATORS TO [CRACK/ROOT THEIR ANDROID MACHINE](https://sdrausty.github.io/pages/rooting) MANY TIMES DURING THE YEARS WHEN I HAD THOUGHT WE WERE WORKING TOGETHER WITH A COMMON GOAL IN MIND BY SOME THE CURRENT CURATORS OF TERMUX!
 
 <p align="center">SHMEM+</p>
 
