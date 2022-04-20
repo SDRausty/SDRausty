@@ -165,6 +165,8 @@ I am very happy that I can try to terraform my crib, and you can too!
 
 я очень счастлив, что могу попробуй терраформировать свою кроватку, и вы тоже можете!
 
+<hr>
+
 [`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L230) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/)
 
 <!-- Reference https://github.com/YourUserAccount/YourProject/blob/master/DirectoryPath/ReadMe.md -->
