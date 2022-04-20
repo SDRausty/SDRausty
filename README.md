@@ -21,7 +21,7 @@ A `win win` includes everyone because everyone wins.
 
 [USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
 
-Liquid hydrogen and liquid natural gas container ship terminals for EU!
+Liquid hydrogen and liquid natural gas container ship terminals for the EU!
 
 [Does the EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)  Why?  Would you rather be a little cooler, or watch WW3 ignite?  Turn your gas heating off right now, please!
 
@@ -78,6 +78,8 @@ He wants his fuse to be lit for a post World War III.
   <h3 align="center">GOES17</h3>
 </p>
 
+<hr>
+
 [I would like to know why Termux is asking for help, then bashes its' helpers by banning, deleting and minimizing contributor's work that Termux user's are seeking to use on their Android palmheld devices. How will Termux users find what they are seeking for when work contributed to Termux for Termux end users is gone?](https://github.com/termux/termux-packages/issues/202#issuecomment-1072656070)
 
 [> Why not run POV-Ray on your Android?](https://github.com/termux/termux-packages/issues/202)
@@ -114,6 +116,9 @@ ANSWER: Were you asked to [crack/break/root an Android smartphone via rooting](h
 
 THIS GITHUB ACCOUNT WAS ASKED BY TERMUX CURATORS TO [CRACK/ROOT THEIR ANDROID MACHINE](https://sdrausty.github.io/pages/rooting) MANY TIMES DURING THE YEARS WHEN I HAD THOUGHT WE WERE WORKING TOGETHER WITH A COMMON GOAL IN MIND BY SOME THE CURRENT CURATORS OF TERMUX!
 
+[`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L230) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/)
+
+<hr>
 <p align="center">SHMEM+</p>
 
 [session0](https://wiki.termux.com/wiki/FAQ) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago - 25 or 6 to 4 (Official Audio)-8A3HZvGN0qs.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1884)
@@ -143,6 +148,7 @@ Isaiah 11:8 <q>And the sucking child shall play on the hole of the asp, and the 
 Isaiah 11:9 <q>They shall not hurt nor destroy in all my holy mountain: for the Earth shall be full of the knowledge of the LORD, as the waters cover the sea.</q>
 
 [`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L230) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/)
+
 <hr>
 
 [USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
