@@ -11,12 +11,15 @@
 <p align="center">When is <a href="https://github.com/buildAPKs">the holograph</a> going to sing?</p>
 
 <p align="right"><em><sup>by SDRausty</sup></em></p>
+
 <hr>
 
 [rouge Termux curators #2](https://github.com/SDRausty/builtAPKs/issues/2)
+
 >everyone
 
 A `win win` includes everyone because everyone wins.
+
 <hr>
 
 [USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
@@ -65,9 +68,11 @@ https://user-images.githubusercontent.com/27742457/160233370-9c30c8e0-41ba-4170-
 
 He wants his fuse to be lit for a post World War III.
 Он хочет, чтобы его фитиль загорелся для послезавтра Третьей мировой войны.
+
 ![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/0_UKRAINE-RUSSIA-CONFLICT.jpg)
+
 <hr>
-<!-- Reference https://github.com/YourUserAccount/YourProject/blob/master/DirectoryPath/ReadMe.md -->
+
 <p align="center">
   <img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg"/>
   <h3 align="center">GOES16</h3>
@@ -139,7 +144,7 @@ THIS GITHUB ACCOUNT WAS ASKED BY TERMUX CURATORS TO [CRACK/ROOT THEIR ANDROID MA
 ![Playing in the Snowscape, January 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
 [Service Duck](https://github.com/serviceanimals) Chester 2 and [Service Dog](https://github.com/serviceanimals) Princess Playing in the Snowscape, January 2022
-<p>
+
 Isaiah 11:6 <q>The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.</q>
 <p>
 Isaiah 11:7 <q>And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.</q>
@@ -147,8 +152,6 @@ Isaiah 11:7 <q>And the cow and the bear shall feed; their young ones shall lie d
 Isaiah 11:8 <q>And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice' den.</q>
 <p>
 Isaiah 11:9 <q>They shall not hurt nor destroy in all my holy mountain: for the Earth shall be full of the knowledge of the LORD, as the waters cover the sea.</q>
-
-[`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L230) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/)
 
 <hr>
 
@@ -167,4 +170,7 @@ terraform your nest
 I am very happy that I can try to terraform my crib, and you can too!
 
 я очень счастлив, что могу попробуй терраформировать свою кроватку, и вы тоже можете!
-<!-- SDRausty/README.md EOF -->
+
+<!-- Reference https://github.com/YourUserAccount/YourProject/blob/master/DirectoryPath/ReadMe.md -->
+
+<!-- github.com/SDRausty/SDRausty/README.md FE -->
