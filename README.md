@@ -71,8 +71,6 @@ He wants his fuse to be lit for a post World War III.
 
 ![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/0_UKRAINE-RUSSIA-CONFLICT.jpg)
 
-<hr>
-
 <p align="center">
   <img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg"/>
   <h3 align="center">GOES16</h3>
@@ -121,8 +119,6 @@ ANSWER: Were you asked to [crack/break/root an Android smartphone via rooting](h
 
 THIS GITHUB ACCOUNT WAS ASKED BY TERMUX CURATORS TO [CRACK/ROOT THEIR ANDROID MACHINE](https://sdrausty.github.io/pages/rooting) MANY TIMES DURING THE YEARS WHEN I HAD THOUGHT WE WERE WORKING TOGETHER WITH A COMMON GOAL IN MIND BY SOME THE CURRENT CURATORS OF TERMUX!
 
-<hr>
-
 <p align="center">SHMEM+</p>
 
 [session0](https://wiki.termux.com/wiki/FAQ) [`wae.bash`](https://github.com/WAE/wae/blob/master/wae.bash)[`Chicago - 25 or 6 to 4 (Official Audio)-8A3HZvGN0qs.webm`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L1884)
@@ -138,8 +134,6 @@ THIS GITHUB ACCOUNT WAS ASKED BY TERMUX CURATORS TO [CRACK/ROOT THEIR ANDROID MA
 <p align="center">CTRL+\ can be used to restart plays as desired.</p>
 
 <hr>
-
-[`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L230) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/)
 
 ![Playing in the Snowscape, January 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
@@ -170,6 +164,8 @@ terraform your nest
 I am very happy that I can try to terraform my crib, and you can too!
 
 я очень счастлив, что могу попробуй терраформировать свою кроватку, и вы тоже можете!
+
+[`mkdip`](https://github.com/TermuxArch/TermuxArch/blob/master/archlinuxconfig.bash#L230) [`~/serviceanimals/{dog,duck,rabbit,turkey}`](https://github.com/serviceanimals/)
 
 <!-- Reference https://github.com/YourUserAccount/YourProject/blob/master/DirectoryPath/ReadMe.md -->
 
