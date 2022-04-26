@@ -8,7 +8,7 @@
 
 <p align="center">It is a small shiny palm held thing.</p>
 
-<p align="center">When is <a href="https://github.com/buildAPKs">the holograph</a> going to sing?</p>
+<p align="center">When is <a href="https://github.com/buildAPKs">the holograph</a> gonna sing?</p>
 
 <p align="right"><em><sup>by SDRausty</sup></em></p>
 
