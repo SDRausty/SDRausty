@@ -18,7 +18,7 @@
 
 >everyone
 
-A `win win` includes everyone because everyone wins.
+A [`win win`](https://github.com/SDRausty/builtAPKs/issues/2#issuecomment-1090414659_) includes everyone because everyone wins.
 
 <hr>
 
