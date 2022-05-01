@@ -14,6 +14,10 @@
 
 <hr>
 
+james; psalms
+
+<hr>
+
 [rouge Termux curators #2](https://github.com/SDRausty/builtAPKs/issues/2)
 
 >everyone
