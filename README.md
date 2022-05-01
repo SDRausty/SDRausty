@@ -12,10 +12,6 @@
 
 <hr>
 
-[james](https://user-images.githubusercontent.com/27742457/161573487-d3682652-a8cd-4c8c-9730-71092ab55042.mp4)
-
-<hr>
-
 [rouge Termux curators #2](https://github.com/SDRausty/builtAPKs/issues/2)
 
 >everyone
