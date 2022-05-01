@@ -1,4 +1,4 @@
-<h1 align="center">𝚆𝚎re they bombed into running human parts? Later, were their then human running limbs rotting?  Maybe buried?  Concentration oven burned/cremated and into mass grave thrown?  Were they maggotting moving?  Insects buzzing! We𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
+<h1 align="center">𝚆𝚎re they bombed into running human parts? Later, were their then human running limbs buzzing, moving and rotting?  Maybe buried?  Concentration oven burned/cremated and into mass grave thrown?  Were they maggotting moving?  Insects buzzing! We𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
 
 <h4 align="center"><em>Androids be more than computers!</em></h4>
 
