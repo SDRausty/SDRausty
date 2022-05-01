@@ -14,7 +14,7 @@
 
 <hr>
 
-james; psalms
+james; psalms 23
 
 <hr>
 
