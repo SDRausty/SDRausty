@@ -1,4 +1,4 @@
-<h1 align="center">"Never returned with anyone in his troop.  We do not know where they died," my grandmother had said.  Are they bombed into running human parts? Later, were their then human running limbs insect buzzing, moving and rotting?  Maybe mass pv5 buried?  Concentration oven burned/cremated and into mass grave thrown?  Were they maggotting moving?  Insects buzzing! We𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
+<h1 align="center">"Never returned with anyone in his troop.  We do not know where they died," my grandmother had said.  Are they bombed into running human parts? [aged teen] "I entered the just bombed bakery shop wanting to buy bread," my grandma continued answering my question about the world wars. Later, were their then human running limbs insect buzzing, moving and rotting?  Maybe mass pv5 buried?  Concentration oven burned/cremated and into mass grave thrown?  Were they maggotting moving?  Insects buzzing! We𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
 
 <h4 align="center"><em>Androids be more than computers!</em></h4>
 
