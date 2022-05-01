@@ -1,5 +1,3 @@
-<h1 align="center">"Your grandfather's brother never returned with anyone in his troop.  We will never know where he and ours died when and back then in World War Two," my grandmother's sister had said answering my question then [circa pre2000].  Are they bombed into running human parts? [aged preteen] "I entered the just bombed bakery shop wanting to buy bread," my grandma' sister continued answering my questions about World Wars One and Two. Later, were their then human running limbs insect buzzing, moving and rotting?  Mass pc45 and buried:  Concentration oven burned/cremated and into mass grave thrown?  Were they maggotting moving?  Insects buzzing:  Tags snatched! We𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
-
 <h4 align="center"><em>Androids be more than computers!</em></h4>
 
 <p align="center">Not a building, nor kinescope TV box,</p>
