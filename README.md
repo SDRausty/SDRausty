@@ -1,4 +1,4 @@
-<h1 align="center">𝚆𝚎re bombed into running parts? Later, was they rotting?  Were they maggotting moving?  We𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
+<h1 align="center">𝚆𝚎re bombed into running parts? Later, was they rotting?  Were they maggotting moving?  Insects buzzing! We𝚕𝚌𝚘𝚖𝚎! Enjoy!</h1>
 
 <h4 align="center"><em>Androids be more than computers!</em></h4>
 
