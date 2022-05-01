@@ -13,8 +13,8 @@
 <p align="right"><em><sup>by SDRausty</sup></em></p>
 
 <hr>
-https://user-images.githubusercontent.com/27742457/161573487-d3682652-a8cd-4c8c-9730-71092ab55042.mp4
-psalms 23
+
+[james](https://user-images.githubusercontent.com/27742457/161573487-d3682652-a8cd-4c8c-9730-71092ab55042.mp4)
 
 <hr>
 
