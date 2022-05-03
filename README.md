@@ -20,7 +20,7 @@ A [`win win`](https://github.com/SDRausty/builtAPKs/issues/2#issuecomment-109041
 
 <hr>
 
-[bua2 scenario](https://www.ecosia.org/images?q=bau2%20scenario)
+[bua2 mit model scenario](https://www.ecosia.org/images?q=bau2%20mit%20model%20scenario)
 
 [USA liquid natural gas surplus](https://www.ecosia.org/search?q=USA+liquid+natural+gas+surplus)
 
