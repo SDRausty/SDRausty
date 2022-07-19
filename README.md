@@ -20,12 +20,14 @@ A [`win win`](https://github.com/SDRausty/builtAPKs/issues/2#issuecomment-109041
 
 <hr>
 
-[bua2 mit model scenario](https://www.ecosia.org/images?q=bau2%20mit%20model%20scenario)
+![Climate Spiral](https://raw.githubusercontent.com/SDRausty/SDRausty/master/ClimateSpiral.gif)
+![bau2](https://raw.githubusercontent.com/SDRausty/SDRausty/master/bau2.jpg)
+[bau2 mit model scenario](https://www.ecosia.org/images?q=bau2%20mit%20model%20scenario)
 
 [USA liquid natural gas surplus](https://www.ecosia.org/images?q=USA%20liquid%20natural%20gas%20surplus)
 
 Liquid hydrogen and liquid natural gas container ship terminals for the EU! Are you familiar with R hydro thermal heating?
-[Does the EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)  Why?  Would you rather be a little cooler, or watch WW3 ignite?  Turn your gas heating off right now, please! Rubles for one more slavic genocide 
+[Does the EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)  Why?  Would you rather be a little cooler, or watch WW3 ignite?  Turn your gas heating off right now, please! Rubles for one more slavic genocide
 geoform your nest
 
 геоформировать свое гнездо
