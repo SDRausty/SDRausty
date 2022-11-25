@@ -83,6 +83,11 @@ He wants his fuse to be lit for a post World War III.
   <h3 align="center">GOES17</h3>
 </p>
 
+<p align="center">
+  <img src="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/GEOCOLOR/678x678.jpg"/>
+  <h3 align="center">GOES18</h3>
+</p>
+
 <hr>
 
 [I would like to know why Termux is asking for help, then bashes its' helpers by banning, deleting and minimizing contributor's work that Termux user's are seeking to use on their Android palmheld devices. How will Termux users find what they are seeking for when work contributed to Termux for Termux end users is gone?](https://github.com/termux/termux-packages/issues/202#issuecomment-1072656070)
