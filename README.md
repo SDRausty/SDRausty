@@ -71,6 +71,8 @@ He wants his fuse to be lit for a post World War III.
 
 ![Он хочет, чтобы его фитиль загорелся для Третьей мировой войны.](https://raw.githubusercontent.com/SDRausty/SDRausty/master/0_UKRAINE-RUSSIA-CONFLICT.jpg)
 
+![ukraine_night_time_satellite_image](https://raw.githubusercontent.com/SDRausty/SDRausty/master/_127784435_ukraine_night_time_satellite_image_v3_640-2x-nc.png.webp)
+
 <p align="center">
   <img src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/678x678.jpg"/>
   <h3 align="center">GOES16</h3>
