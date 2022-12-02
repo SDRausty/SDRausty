@@ -150,6 +150,11 @@ Isaiah 11:7 <q>And the cow and the bear shall feed; their young ones shall lie d
 Isaiah 11:8 <q>And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice' den.</q>
 <p>
 Isaiah 11:9 <q>They shall not hurt nor destroy in all my holy mountain: for the Earth shall be full of the knowledge of the LORD, as the waters cover the sea.</q>
+<p>
+Mark 16:15 <q>And he said unto them, Go ye into all the world, and preach the gospel to every creature.</q>
+<p>
+
+Isaiah 11:9 <q>They shall not hurt nor destroy in all my holy mountain: for the Earth shall be full of the knowledge of the LORD, as the waters cover the sea.</q>
 
 <hr>
 
