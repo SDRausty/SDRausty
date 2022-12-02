@@ -143,18 +143,16 @@ THIS GITHUB ACCOUNT WAS ASKED BY TERMUX CURATORS TO [CRACK/ROOT THEIR ANDROID MA
 
 What is a service animal? A service animal should have a task that directly helps its handler in any way.
 
-Isaiah 11:6 <q>The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.</q>
+Isaiah 11:6  The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
 <p>
-Isaiah 11:7 <q>And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.</q>
+Isaiah 11:7  And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.
 <p>
-Isaiah 11:8 <q>And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice' den.</q>
+Isaiah 11:8  And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice' den.
 <p>
-Isaiah 11:9 <q>They shall not hurt nor destroy in all my holy mountain: for the Earth shall be full of the knowledge of the LORD, as the waters cover the sea.</q>
+Isaiah 11:9  They shall not hurt nor destroy in all my holy mountain: for the Earth shall be full of the knowledge of the LORD, as the waters cover the sea.
 <p>
-Mark 16:15 <q>And he said unto them, Go ye into all the world, and preach the gospel to every creature.</q>
+Mark 16:15  And he said unto them, Go ye into all the world, and preach the gospel to every creature.
 <p>
-
-Isaiah 11:9 <q>They shall not hurt nor destroy in all my holy mountain: for the Earth shall be full of the knowledge of the LORD, as the waters cover the sea.</q>
 
 <hr>
 
