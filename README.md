@@ -141,7 +141,7 @@ THIS GITHUB ACCOUNT WAS ASKED BY TERMUX CURATORS TO [CRACK/ROOT THEIR ANDROID MA
 
 [Service Duck](https://github.com/serviceanimals) Chester 2 and [Service Dog](https://github.com/serviceanimals) Princess Playing in the Snowscape, January 2022
 
-What is a service animal? A service animal should have a task that directly helps its handler in any way.
+What is a [service animal](https://serviceanimals.github.io/)? A [service animal](https://serviceanimals.github.io/) should have a task that directly helps its handler in any way.
 
 Isaiah 11:6  The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
 <p>
