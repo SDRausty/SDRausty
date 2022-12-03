@@ -12,14 +12,6 @@
 
 <hr>
 
-[rouge Termux curators #2](https://github.com/SDRausty/builtAPKs/issues/2)
-
->everyone
-
-A [`win win`](https://github.com/SDRausty/builtAPKs/issues/2#issuecomment-1090414659_) includes everyone as everybody wins.
-
-<hr>
-
 ![Climate Spiral](https://raw.githubusercontent.com/SDRausty/SDRausty/master/ClimateSpiral.gif)
 ![bau2](https://raw.githubusercontent.com/SDRausty/SDRausty/master/bau2.jpg)
 [bau2 mit model scenario](https://www.ecosia.org/images?q=bau2%20mit%20model%20scenario)
@@ -82,6 +74,14 @@ He wants his fuse to be lit for a post World War III.
   <img src="https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/678x678.jpg"/>
   <h3 align="center">GOES17</h3>
 </p>
+
+<hr>
+
+[rouge Termux curators #2](https://github.com/SDRausty/builtAPKs/issues/2)
+
+>everyone
+
+A [`win win`](https://github.com/SDRausty/builtAPKs/issues/2#issuecomment-1090414659_) includes everyone as everybody wins.
 
 <hr>
 
