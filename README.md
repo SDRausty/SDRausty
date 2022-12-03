@@ -151,7 +151,7 @@ Isaiah 11:8  And the sucking child shall play on the hole of the asp, and the we
 <p>
 Isaiah 11:9  They shall not hurt nor destroy in all my holy mountain: for the Earth shall be full of the knowledge of the LORD, as the waters cover the sea.
 <p>
-Mark 16:14  Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen. 
+Mark 16:14  Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen.
 <p>
 Mark 16:15  And he said unto them, Go ye into all the world, and preach the gospel to every creature.
 <p>
