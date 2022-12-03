@@ -153,6 +153,8 @@ Isaiah 11:9  They shall not hurt nor destroy in all my holy mountain: for the Ea
 <p>
 Mark 16:15  And he said unto them, Go ye into all the world, and preach the gospel to every creature.
 <p>
+Mark 16:16  He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
+<p>
 
 <hr>
 
