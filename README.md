@@ -20,6 +20,7 @@
 
 Liquid hydrogen and liquid natural gas container ship terminals for the EU! Are you familiar with R hydro thermal heating?
 [Does the EU buy natural gas from Russia?](https://www.ecosia.org/search?q=Does+EU+buy+natural+gas+from+Russia%3F)  Why?  Would you rather be a little cooler, or watch WW3 ignite?  Turn your gas heating off right now, please! Rubles for one more slavic genocide
+
 geoform your nest
 
 геоформировать свое гнездо
