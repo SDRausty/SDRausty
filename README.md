@@ -13,7 +13,9 @@
 <hr>
 
 ![Climate Spiral](https://raw.githubusercontent.com/SDRausty/SDRausty/master/ClimateSpiral.gif)
+
 ![bau2](https://raw.githubusercontent.com/SDRausty/SDRausty/master/bau2.jpg)
+
 [bau2 mit model scenario](https://www.ecosia.org/images?q=bau2%20mit%20model%20scenario)
 
 [USA liquid natural gas surplus](https://www.ecosia.org/images?q=USA%20liquid%20natural%20gas%20surplus)
