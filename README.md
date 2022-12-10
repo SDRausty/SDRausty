@@ -156,6 +156,10 @@ Isaiah 11:8  And the sucking child shall play on the hole of the asp, and the we
 <p>
 Isaiah 11:9  They shall not hurt nor destroy in all my holy mountain: for the Earth shall be full of the knowledge of the LORD, as the waters cover the sea.
 <p>
+Luke 11:9  And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.
+<p>
+Luke 11:10  For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
+<p>
 Mark 16:14  Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen.
 <p>
 Mark 16:15  And he said unto them, Go ye into all the world, and preach the gospel to every creature.
