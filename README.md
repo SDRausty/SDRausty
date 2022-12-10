@@ -144,7 +144,7 @@ THIS GITHUB ACCOUNT WAS ASKED BY TERMUX CURATORS TO [CRACK/ROOT THEIR ANDROID MA
 
 ![Playing in the Snowscape, January 2022](https://raw.githubusercontent.com/SDRausty/SDRausty/master/VID_20220107_222225.gif)
 
-[Service Duck](https://github.com/serviceanimals) Chester 2 and [Service Dog](https://github.com/serviceanimals) Princess Playing in the Snowscape, January 2022
+<caption>[Service Duck](https://github.com/serviceanimals) Chester 2 and [Service Dog](https://github.com/serviceanimals) Princess Playing in the Snowscape, January 2022</caption>
 
 What is a [service animal](https://serviceanimals.github.io/)? A [service animal](https://serviceanimals.github.io/) should have a task that directly helps its handler in any way.
 
